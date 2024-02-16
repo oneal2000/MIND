@@ -1,0 +1,3271 @@
+{
+    "428": {
+        "sentences": [
+            {
+                "sentence": "It was the first studio in the world to be equipped with a recording console, and the first to use a microphone.",
+                "label": 1
+            },
+            {
+                "sentence": "The studio was founded in 1924 by Percy Francis Phillips, a former music hall singer, and his wife, Mabel.",
+                "label": 1
+            },
+            {
+                "sentence": "The studio was located in the house of Percy and Mabel Phillips at 38 Kensington, Kensington, Liverpool, England.",
+                "label": 0
+            },
+            {
+                "sentence": "It was the first studio in the world to be equipped with a recording console, and the first to use a microphone.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Phillips ' Sound Recording Services. Phillips ' Sound Recording Services was a studio in the house of Percy Francis Phillips ( 1896 \u2013 1984 ) and his family at 38 Kensington , Kensington , Liverpool , England ."
+    },
+    "425": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on Nickelodeon in the United States on May 19, 2010.",
+                "label": 1
+            },
+            {
+                "sentence": "The episode begins with SpongeBob and Patrick trying to get a job at the Krusty Krab.",
+                "label": 0
+            },
+            {
+                "sentence": "SpongeBob is rejected by Mr.Krabs, who tells him that he is too short and Patrick is too fat.",
+                "label": 0
+            },
+            {
+                "sentence": "SpongeBob and Patrick then go to the Krusty Krab's rival, the Chum Bucket, where they are hired by Mr.Krabs' son, Squidward.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Best Day Ever. \" Best Day Ever \" is the 20th episode of the fourth season and the 80th overall episode of the American animated television series SpongeBob SquarePants ."
+    },
+    "431": {
+        "sentences": [
+            {
+                "sentence": "The ruling Polish United Workers' Party (PZPR) won a landslide victory, winning a majority of seats in the Sejm.",
+                "label": 0
+            },
+            {
+                "sentence": "The PZPR won a majority of seats in the Sejm, the lower house of the Polish parliament, with a total of 4,868,857 votes (51.6%).",
+                "label": 1
+            },
+            {
+                "sentence": "The PZPR won a majority of seats in the Senate, the upper house of the Polish parliament, with a total of 1,868,857 votes (51.6%).",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Polish legislative election , 1957. Parliamentary elections were held in Poland on 20 January 1957 ."
+    },
+    "432": {
+        "sentences": [
+            {
+                "sentence": "The Left Hand of Darkness is a science fiction novel by Ursula K.Le Guin, published in 1969.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Left Hand of Darkness. The Left Hand of Darkness is a science fiction novel by Ursula K. Le Guin , published in 1969 ."
+    },
+    "434": {
+        "sentences": [
+            {
+                "sentence": "The Assaf ruled the Keserwan region from the 9th century until the early 13th century.",
+                "label": 1
+            },
+            {
+                "sentence": "The Assaf were the first Muslim dynasty to rule the Keserwan region.",
+                "label": 1
+            },
+            {
+                "sentence": "The Assaf were the first Muslim dynasty to rule the Keserwan region.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Assaf dynasty. The Assaf dynasty ( also called Banu Assaf ) were a Sunni Muslim and ethnic Turkmen dynasty of chieftains based in the Keserwan region of Mount Lebanon ."
+    },
+    "411": {
+        "sentences": [
+            {
+                "sentence": "He was the first president to be born in the United States.",
+                "label": 1
+            },
+            {
+                "sentence": "Taylor was born in Virginia, the son of a planter.",
+                "label": 0
+            },
+            {
+                "sentence": "He was a lawyer and a member of the Virginia House of Delegates before being elected to the U.S. House of Representatives in 1825.",
+                "label": 1
+            },
+            {
+                "sentence": "He was elected to the U.S. Senate in 1833, and served until 1841.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Zachary Taylor. Zachary Taylor ( November 24 , 1784 \u2013 July 9 , 1850 ) was the 12th President of the United States , serving from March 1849 until his death in July 1850 ."
+    },
+    "415": {
+        "sentences": [
+            {
+                "sentence": "The Prussian uprisings were two major and three smaller uprisings by the Prussians, one of the Baltic tribes, against the Teutonic Knights that took place in the 13th century during the Prussian Crusade.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Prussian uprisings. The Prussian uprisings were two major and three smaller uprisings by the Prussians , one of the Baltic tribes , against the Teutonic Knights that took place in the 13th century during the Prussian Crusade ."
+    },
+    "433": {
+        "sentences": [
+            {
+                "sentence": "It was a Category 1 hurricane on the Saffir-Simpson Hurricane Scale.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hurricane Joyce ( 2000 ). Hurricane Joyce caused minor impact in the ABC and Windward islands during late September and early October 2000 ."
+    },
+    "407": {
+        "sentences": [
+            {
+                "sentence": "The first lemurs evolved from the prosimians about 40 million years ago.\nlable: 1\n\nThe first lemurs were small, carnivorous primates that lived in the trees.\nlable: 1\n\nThey were the first primates to evolve from the common ancestor of all primates.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Evolution of lemurs. The evolutionary history of lemurs occurred in isolation from other primates , on the island of Madagascar , for at least 40 million years ."
+    },
+    "410": {
+        "sentences": [
+            {
+                "sentence": "She is the wife of Dexter Morgan and the mother of his son Harrison.",
+                "label": 0
+            },
+            {
+                "sentence": "She is a former Miami police officer who was fired for falsifying a report.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Rita Bennett. Rita Bennett ( n\u00e9e Brandon ; later Morgan ) is a fictional character created by Jeff Lindsay for his book series about a vigilante serial killer named Dexter Morgan ."
+    },
+    "413": {
+        "sentences": [
+            {
+                "sentence": "He was the first British composer to write a symphony, and the first to write a concerto for piano and orchestra.",
+                "label": 1
+            },
+            {
+                "sentence": "He was also the first British composer to write a piano concerto.",
+                "label": 1
+            },
+            {
+                "sentence": "Bennett was born in London, the son of a music teacher.",
+                "label": 1
+            },
+            {
+                "sentence": "He studied at the Royal Academy of Music, where he was taught by Joseph Haydn and Franz Liszt.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about William Sterndale Bennett. Sir William Sterndale Bennett ( 13 April 1816 \u2013 1 February 1875 ) was an English composer , pianist , conductor and music educator ."
+    },
+    "424": {
+        "sentences": [
+            {
+                "sentence": "The album was produced by Anthony and his longtime collaborator, producer and songwriter, Emilio Estefan.",
+                "label": 0
+            },
+            {
+                "sentence": "The album was a commercial success, peaking at number one on the Billboard 200 and selling over 2.5 million copies in the United States.",
+                "label": 1
+            },
+            {
+                "sentence": "The album spawned two singles, \"Todo a Su Tiempo\" and \"El Amor Es Una Cosa\", which both reached the top ten on the Billboard Hot 100.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was certified platinum by the Recording Industry Association of America (RIAA) for shipments of over one million copies in the United States.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Todo a Su Tiempo ( Marc Anthony album ). Todo a Su Tiempo ( English : All in Due Time ) is the second studio album by American recording artist Marc Anthony , released by RMM Records on May 30 , 1995 ."
+    },
+    "430": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on the Fox network in the United States on November 17, 1999.",
+                "label": 1
+            },
+            {
+                "sentence": "The episode was written by series creator Seth MacFarlane and directed by series creator Seth MacFarlane.",
+                "label": 1
+            },
+            {
+                "sentence": "It was the first episode of the series to be directed by MacFarlane.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about I Never Met the Dead Man. \" I Never Met the Dead Man \" is the second episode of the first season of the animated comedy series Family Guy ."
+    },
+    "427": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on Fox in the United States on February 17, 2005.",
+                "label": 1
+            },
+            {
+                "sentence": "Brian the Bachelor is the seventh episode from the fourth season of Family Guy.",
+                "label": 0
+            },
+            {
+                "sentence": "It originally aired on Fox in the United States on February 17, 2005.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Brian the Bachelor. \" Brian the Bachelor \" is the seventh episode from the fourth season of Family Guy ."
+    },
+    "426": {
+        "sentences": [
+            {
+                "sentence": "It was released on the Nonesuch label.",
+                "label": 1
+            },
+            {
+                "sentence": "How to Grow a Woman from the Ground is a 2006 album by Chris Thile and the How to Grow a Band, credited to Chris Thile.",
+                "label": 0
+            },
+            {
+                "sentence": "It was released on the Nonesuch label.",
+                "label": 1
+            },
+            {
+                "sentence": "How to Grow a Woman from the Ground is a 2006 album by Chris Thile and the How to Grow a Band, credited to Chris Thile.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about How to Grow a Woman from the Ground. How to Grow a Woman from the Ground is a 2006 album by Chris Thile and the How to Grow a Band , credited to Chris Thile ."
+    },
+    "417": {
+        "sentences": [
+            {
+                "sentence": "It was built in 1868 by the architect George Gilbert Scott, and was the home of the poet and novelist George Eliot.",
+                "label": 1
+            },
+            {
+                "sentence": "It was demolished in the 1960s.",
+                "label": 1
+            },
+            {
+                "sentence": "Borley Rectory was a Victorian mansion that gained fame as \" the most haunted house in England \" after being described as such by Harry Price.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Borley Rectory. Borley Rectory was a Victorian mansion that gained fame as \" the most haunted house in England \" after being described as such by Harry Price ."
+    },
+    "435": {
+        "sentences": [
+            {
+                "sentence": "Feminism is a social movement that seeks to achieve equality between the sexes.",
+                "label": 0
+            },
+            {
+                "sentence": "It is a political ideology that advocates for women's rights, including the right to vote, to hold public office, to work, to own property, to be free from sexual harassment, and to have equal pay for equal work.",
+                "label": 0
+            },
+            {
+                "sentence": "Feminism is a social movement that seeks to achieve equality between the sexes.",
+                "label": 0
+            },
+            {
+                "sentence": "It is a political ideology that advocates for women's rights, including the right to vote, to hold public office, to work, to own property, to be free from sexual harassment, and to have equal pay for equal work.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Feminism. Feminism is a range of political movements , ideologies , and social movements that share a common goal : to define , establish , and achieve political , economic , personal , and social rights for women that are equal to those of men ."
+    },
+    "423": {
+        "sentences": [
+            {
+                "sentence": "It was the first of the Device Forts built by Henry VIII.",
+                "label": 1
+            },
+            {
+                "sentence": "The castle was built to protect the Isle of Wight from invasion by the French.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Sandown Castle , Isle of Wight. Sandown Castle was a Device Fort built at Sandown on the Isle of Wight by Henry VIII in 1545 to protect against the threat of French attack ."
+    },
+    "420": {
+        "sentences": [
+            {
+                "sentence": "It is a life-threatening condition that requires immediate medical attention.",
+                "label": 0
+            },
+            {
+                "sentence": "Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death.",
+                "label": 0
+            },
+            {
+                "sentence": "It is a life-threatening condition that requires immediate medical attention.",
+                "label": 0
+            },
+            {
+                "sentence": "Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Anaphylaxis. Anaphylaxis is a serious allergic reaction that is rapid in onset and may cause death ."
+    },
+    "429": {
+        "sentences": [
+            {
+                "sentence": "It is a popular route for walkers and cyclists.",
+                "label": 0
+            },
+            {
+                "sentence": "The pass is a popular route for walkers and cyclists.",
+                "label": 0
+            },
+            {
+                "sentence": "It is a steep climb, with a gradient of 1 in 10, and is a popular route for walkers and cyclists.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Snake Pass. Snake Pass is a hill pass in the Derbyshire section of the Peak District , crossing the Pennines between Glossop and the Ladybower Reservoir at Ashopton ."
+    },
+    "418": {
+        "sentences": [
+            {
+                "sentence": "Plastic Brit is a pejorative term used to describe athletes who choose to represent Great Britain in international sport despite having personal connections to another country.",
+                "label": 0
+            },
+            {
+                "sentence": "The BOA was accused of \"plastic patriotism\" and \"selling out\" to the country of their birth.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Plastic Brit. Plastic Brit , or Plastic Briton , is a pejorative term used to describe athletes who choose to represent Great Britain in international sport despite having personal connections to another country ."
+    },
+    "422": {
+        "sentences": [
+            {
+                "sentence": "It is based on the novel Traffic by Paul Theroux.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was released in the United States on December 16, 2000.",
+                "label": 1
+            },
+            {
+                "sentence": "Traffic is a 2000 American crime drama film directed by Steven Soderbergh and written by Stephen Gaghan.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Traffic ( 2000 film ). Traffic is a 2000 American crime drama film directed by Steven Soderbergh and written by Stephen Gaghan ."
+    },
+    "419": {
+        "sentences": [
+            {
+                "sentence": "It was released on June 30, 2012, as the album's fifth single.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Ocean, and produced by Ocean and Mike Dean.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released as a digital download on June 30, 2012, through Def Jam Recordings.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released as a CD single on July 10, 2012, through Def Jam Recordings.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Super Rich Kids. \" Super Rich Kids \" is a song by American recording artist Frank Ocean , and the fifth single from his debut studio album , Channel Orange ."
+    },
+    "416": {
+        "sentences": [
+            {
+                "sentence": "The amendments were defeated in the Senate.",
+                "label": 0
+            },
+            {
+                "sentence": "The Bricker Amendment was a series of proposed amendments to the United States Constitution that were introduced in the United States Senate in the 1950s.",
+                "label": 0
+            },
+            {
+                "sentence": "The amendments were proposed by Senator Robert Bricker (R-Ohio) and were intended to limit the power of the federal government to regulate interstate commerce.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Bricker Amendment. The Bricker Amendment is the collective name of a number of proposed amendments to the United States Constitution considered by the United States Senate in the 1950s ."
+    },
+    "421": {
+        "sentences": [
+            {
+                "sentence": "She is best known for her role as Anna on the Disney Channel sitcom The Suite Life of Zack and Cody.",
+                "label": 1
+            },
+            {
+                "sentence": "Bell is also known for her role as Veronica Mars on the television series Veronica Mars.",
+                "label": 0
+            },
+            {
+                "sentence": "Bell has also appeared in films such as Forgetting Sarah Marshall, The Good Girl, and The House Bunny.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Kristen Bell. Kristen Anne Bell ( born July 18 , 1980 ) is an American actress and singer ."
+    },
+    "3": {
+        "sentences": [
+            {
+                "sentence": "It was painted in 1835, and is now in the National Gallery of Serbia.",
+                "label": 1
+            },
+            {
+                "sentence": "The painting was commissioned by the Serbian government, and was painted by Katarina Ivanovi\u0107, a Serbian painter who was one of the first female artists in the country.",
+                "label": 1
+            },
+            {
+                "sentence": "The painting was exhibited in 1835 at the Salon of the Soci\u00e9t\u00e9 des Artistes Fran\u00e7ais in Paris, and was purchased by the Serbian government.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Conquest of Belgrade. The Conquest of Belgrade is an oil painting by the romanticist Katarina Ivanovi\u0107 , one of Serbia 's first significant female painters ."
+    },
+    "4": {
+        "sentences": [
+            {
+                "sentence": "The storm was located about  south of Madagascar, and was moving west-northwest at.",
+                "label": 1
+            },
+            {
+                "sentence": "The storm was estimated to have a minimum barometric pressure of 998\u00a0mbar (hPa; 29.00\u00a0inHg).",
+                "label": 1
+            },
+            {
+                "sentence": "The JTWC issued their first advisory on the storm on October\u00a03 at 1200\u00a0UTC.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Cyclone Favio. Cyclone Favio was the first known tropical cyclone that passed south of Madagascar to strike Africa as an intense tropical cyclone ."
+    },
+    "9": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on the National Broadcasting Company (NBC) network in the United States on October 16, 2008.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Flu Shot ( 30 Rock ). \" Flu Shot \" is the eighth episode of the third season of the American television comedy series 30 Rock ."
+    },
+    "5": {
+        "sentences": [
+            {
+                "sentence": "The battle was the first major engagement of the war, and the first time UN forces had fought in Korea.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of the Bowling Alley. In the Battle of the Bowling Alley ( August 12 \u2013 25 , 1950 ) , United Nations ( UN ) forces defeated North Korean ( NK ) forces early in the Korean War near the city of Taegu , South Korea ."
+    },
+    "8": {
+        "sentences": [
+            {
+                "sentence": "The riots were sparked by a brawl between Arsenal fans and Galatasaray supporters in the City Hall Square, which led to the arrest of several Arsenal fans.",
+                "label": 1
+            },
+            {
+                "sentence": "The riots were the most serious in the history of the UEFA Cup.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 2000 UEFA Cup Final riots. The 2000 UEFA Cup Final Riots , also known as the Battle of Copenhagen , were a series of riots in City Hall Square in Copenhagen , Denmark , between fans of English football team Arsenal and Turkish side Galatasaray around the 2000 UEFA Cup Final on 17 May 2000 ."
+    },
+    "351": {
+        "sentences": [
+            {
+                "sentence": "It is the first exoplanet to be discovered orbiting a red dwarf.",
+                "label": 0
+            },
+            {
+                "sentence": "The planet was discovered by the radial velocity method.",
+                "label": 0
+            },
+            {
+                "sentence": "The planet was discovered in 2003 by the radial velocity method.",
+                "label": 0
+            },
+            {
+                "sentence": "The planet was discovered in 2003 by the radial velocity method.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Gliese 876 b. Gliese 876 b is an exoplanet orbiting the red dwarf Gliese 876 ."
+    },
+    "357": {
+        "sentences": [
+            {
+                "sentence": "He was the founder of the Gibson Gallery in Sydney, Australia, and the founder of the Sydney Festival.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the Sydney Art Gallery Board of Trustees from its inception in 1947 until his death in 1973.",
+                "label": 1
+            },
+            {
+                "sentence": "Gibson was born in Sydney, Australia, the son of William Gibson, a solicitor, and his wife, Mary (n\u00e9e Lawson).",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at Sydney Grammar School and the University of Sydney, where he graduated with a Bachelor of Arts in 1923.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Aubrey Gibson. Aubrey Hickes Lawson Gibson ( 4 May 1901 \u2013 26 March 1973 ) was an Australian businessman , arts patron and art collector ."
+    },
+    "359": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on the Fox network in the United States on March 31, 2000.",
+                "label": 1
+            },
+            {
+                "sentence": "Bart tells them that he has been suspended for a week for fighting.",
+                "label": 1
+            },
+            {
+                "sentence": "Homer and Marge are shocked, but Bart says that he is not the one who started the fight.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Das Bus. \" Das Bus \" is the fourteenth episode of The Simpsons ' ninth season ."
+    },
+    "354": {
+        "sentences": [
+            {
+                "sentence": "The battle was fought in the Khafji area of southern Iraq, near the border with Kuwait.",
+                "label": 1
+            },
+            {
+                "sentence": "The battle was fought on January 17, 1991, and lasted for about two hours.",
+                "label": 1
+            },
+            {
+                "sentence": "The battle was the first major ground engagement of the Gulf War.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of Khafji. The Battle of Khafji was the first major ground engagement of the Gulf War ."
+    },
+    "352": {
+        "sentences": [
+            {
+                "sentence": "He is a defender.",
+                "label": 1
+            },
+            {
+                "sentence": "Alex Rhodes is a professional footballer who plays as a defender for Margate in the Isthmian League Premier Division.",
+                "label": 1
+            },
+            {
+                "sentence": "He has previously played for Brighton & Hove Albion, Crystal Palace, Millwall, and Brentford.",
+                "label": 1
+            },
+            {
+                "sentence": "Alex Rhodes is a professional footballer who plays as a defender for Margate in the Isthmian League Premier Division.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Alex Rhodes ( footballer ). Alexander Graham \" Alex \" Rhodes ( born 23 January 1982 ) is an English professional footballer who plays for Isthmian League Premier Division side Margate ."
+    },
+    "358": {
+        "sentences": [
+            {
+                "sentence": "It was released as the lead single from their second studio album, The Bitter Truth, on 21 September 2009.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Goldfrapp and produced by the duo.",
+                "label": 0
+            },
+            {
+                "sentence": "The song was released as a digital download on iTunes on 21 September 2009.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released as a CD single on 22 September 2009.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Number 1 ( Goldfrapp song ). \" Number 1 \" is an electronic \u2013 dance song performed by British group Goldfrapp ."
+    },
+    "353": {
+        "sentences": [
+            {
+                "sentence": "The storm was the first tropical cyclone to affect the region in the 2003\u201304 season.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Cyclone Japhet. Cyclone Japhet was a damaging tropical cyclone that affected southeast Africa in March 2003 ."
+    },
+    "356": {
+        "sentences": [
+            {
+                "sentence": "This is a Wikipedia passage about Greece in the Eurovision Song Contest 2006.",
+                "label": 0
+            },
+            {
+                "sentence": "Anna Vissi represented Greece in the Eurovision Song Contest 2006 with her song \" Everything \".",
+                "label": 0
+            },
+            {
+                "sentence": "This is a Wikipedia passage about Greece in the Eurovision Song Contest 2006.",
+                "label": 0
+            },
+            {
+                "sentence": "Anna Vissi represented Greece in the Eurovision Song Contest 2006 with her song \" Everything \".",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Greece in the Eurovision Song Contest 2006. Anna Vissi represented Greece in the Eurovision Song Contest 2006 with her song \" Everything \" ."
+    },
+    "355": {
+        "sentences": [
+            {
+                "sentence": "The book was published in India in 2005 and in the United States in 2006.",
+                "label": 1
+            },
+            {
+                "sentence": "The Secret of the Nagas is the second novel of the Shiva trilogy series by the Indian author Amish Tripathi.",
+                "label": 0
+            },
+            {
+                "sentence": "The book was published in India in 2005 and in the United States in 2006.",
+                "label": 1
+            },
+            {
+                "sentence": "The Secret of the Nagas is the second novel of the Shiva trilogy series by the Indian author Amish Tripathi.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Secret of the Nagas. The Secret of the Nagas is the second novel of the Shiva trilogy series by the Indian author Amish Tripathi ."
+    },
+    "360": {
+        "sentences": [
+            {
+                "sentence": "He was born in New York City, New York, and died in New York City, New York.Voltaire P.",
+                "label": 1
+            },
+            {
+                "sentence": "Twombly was born in New York City, New York, on February 21, 1842.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the son of a wealthy New York City merchant, and was educated at the New York Military Academy.",
+                "label": 1
+            },
+            {
+                "sentence": "He was commissioned a second lieutenant in the Union Army on June 1, 1861, and served in the Army of the Potomac.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Voltaire P. Twombly. Voltaire Paine Twombly ( February 21 , 1842 \u2013 February 24 , 1918 ) was a Union veteran of the American Civil War and a recipient of the Medal of Honor ."
+    },
+    "202": {
+        "sentences": [
+            {
+                "sentence": "The highway is a part of the New York State Thruway system.",
+                "label": 0
+            },
+            {
+                "sentence": "The highway was originally designated as part of the New York State Route 2 (NY 2) in the 1930s.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about New York State Route 186. New York State Route 186 ( NY 186 ) is a short east \u2013 west state highway in northern New York in the United States ."
+    },
+    "198": {
+        "sentences": [
+            {
+                "sentence": "It is considered one of the best restaurants in the world.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about El Celler de Can Roca. El Celler de Can Roca is a restaurant in Girona , Catalonia , Spain which was opened in 1986 by the Roca brothers , Joan , Josep and Jordi ."
+    },
+    "199": {
+        "sentences": [
+            {
+                "sentence": "The film stars Rizal Sukma, Rizal Sukma, and Rizal Sukma.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was released on August 19, 2011.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was nominated for Best Film at the 2011 Indonesian Film Festival.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was released on DVD on September 28, 2011.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Sang Penari. Sang Penari ( The Dancer ) is a 2011 Indonesian film based on the trilogy of novels Ronggeng Dukuh Paruk by Ahmad Tohari and directed by Ifa Isfansyah ."
+    },
+    "203": {
+        "sentences": [
+            {
+                "sentence": "It was released on September 27, 2005, by Columbia Records.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was certified Gold by the RIAA on December 1, 2005.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Who We Are ( Lifehouse album ). Who We Are is the fourth studio album by American alternative rock band Lifehouse ."
+    },
+    "204": {
+        "sentences": [
+            {
+                "sentence": "The island is a popular tourist destination, and is a popular location for sailing and windsurfing.",
+                "label": 0
+            },
+            {
+                "sentence": "The island is a popular tourist destination, and is a popular location for sailing and windsurfing.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Flat Holm. Flat Holm ( Welsh : Ynys Echni ) is a limestone island lying in the Bristol Channel approximately 6 km ( 4 mi ) from Lavernock Point in the Vale of Glamorgan ( though it forms part of Cardiff ) ."
+    },
+    "206": {
+        "sentences": [
+            {
+                "sentence": "One Rincon Hill is a residential complex on the apex of Rincon Hill in San Francisco, California, United States.",
+                "label": 0
+            },
+            {
+                "sentence": "It is located at the top of the hill, and is the highest point in San Francisco.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about One Rincon Hill. One Rincon Hill is an upscale residential complex on the apex of Rincon Hill in San Francisco , California , United States ."
+    },
+    "205": {
+        "sentences": [
+            {
+                "sentence": "He was the first German president to be born in the Federal Republic of Germany.",
+                "label": 1
+            },
+            {
+                "sentence": "Weizs\u00e4cker was born in Berlin, the son of a wealthy industrialist.",
+                "label": 1
+            },
+            {
+                "sentence": "He studied law at the University of Berlin and was a member of the German National People's Party ( NPD ) from the late 1940s.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the Bundestag from 1949 to 1954, and from 1957 to 1969.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Richard von Weizs\u00e4cker. Richard Karl Freiherr von Weizs\u00e4cker ( listen ; 15 April 1920 \u2013 31 January 2015 ) was a German politician ( CDU ) , who served as President of the Federal Republic of Germany ( West Germany until 1990 ) from 1984 to 1994 ."
+    },
+    "201": {
+        "sentences": [
+            {
+                "sentence": "The championship game was played at Gillette Stadium in Foxborough, Massachusetts.",
+                "label": 0
+            },
+            {
+                "sentence": "The tournament was held at Gillette Stadium in Foxborough, Massachusetts.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 2009 NCAA Division I Men 's Lacrosse Championship. The 2009 NCAA Division I Men 's Lacrosse Tournament was held from May 9 through May 25 , 2009 ."
+    },
+    "197": {
+        "sentences": [
+            {
+                "sentence": "The album was produced by Cudi, along with frequent collaborators, including Kanye West, Mike Dean, and The Neptunes.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was preceded by the lead single, \"Day 'n' Nite\", which was released on August 26, 2009.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was supported by the singles \"Day 'n' Nite\", \"Pursuit of Happiness\", \"The Adventures of Moon Man\", \"The Adventures of Moon Man Pt.2\", \"The Adventures of Moon Man Pt.3\", \"The Adventures of Moon Man Pt.4\", \"The Adventures of Moon Man Pt.5\", \"The Adventures of Moon Man Pt.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Man on the Moon : The End of Day. Man on the Moon : The End of Day is the debut studio album by American hip hop recording artist Kid Cudi , released on September 14 , 2009 , by Dream On , GOOD Music and Universal Motown ."
+    },
+    "200": {
+        "sentences": [
+            {
+                "sentence": "The season officially began on May\u00a015, 1983, and ended on November\u00a030, 1983.",
+                "label": 0
+            },
+            {
+                "sentence": "The first tropical cyclone of the season, Tropical Storm One, formed on May\u00a015.",
+                "label": 1
+            },
+            {
+                "sentence": "The season produced a total of twelve tropical cyclones, of which six became hurricanes, and one became a super typhoon.",
+                "label": 1
+            },
+            {
+                "sentence": "The season was the most active since the formation of the Joint Typhoon Warning Center in 1974.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 1983 Pacific typhoon season. The 1983 Pacific typhoon season has no official bounds , but most tropical cyclones tend to form in the northwestern Pacific Ocean between May and November ."
+    },
+    "140": {
+        "sentences": [
+            {
+                "sentence": "The fort was built to protect the city of Washington, D.C.\nfrom Confederate attack.",
+                "label": 0
+            },
+            {
+                "sentence": "The fort was built on a hill overlooking the Potomac River.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Fort Bayard ( Washington , D.C. ). Fort Bayard was an earthwork fort constructed in 1861 northwest of Tenleytown in the District of Columbia as part of the defenses of Washington , D.C. during the American Civil War ."
+    },
+    "138": {
+        "sentences": [
+            {
+                "sentence": "It was released in the United States in January 1982 as the second single from the album Pero Me Acuerdo de Ti.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was a big hit in the United States, reaching number one on the Billboard Hot 100 and number two on the Billboard Hot Latin Tracks chart.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Pero Me Acuerdo de Ti. \" Pero Me Acuerdo de Ti \" ( English : \" But I Remember You \" ) is a song written and produced by Rudy P\u00e9rez ."
+    },
+    "132": {
+        "sentences": [
+            {
+                "sentence": "The Court has also held that the exclusion of jurors on the basis of sex violates the Constitution.",
+                "label": 1
+            },
+            {
+                "sentence": "The Court has not, however, held that the exclusion of jurors on the basis of national origin violates the Constitution.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Davis v. Ayala. Davis v. Ayala , 576 U.S. _ _ _ ( 2015 ) was a case in which the Supreme Court of the United States upheld a death sentence of a Hispanic defendant despite the fact that all Blacks and Hispanics were excluded from the jury during the defendant 's trial ."
+    },
+    "136": {
+        "sentences": [
+            {
+                "sentence": "It was published in 1843, and is a collection of essays on the subject of either/or.",
+                "label": 0
+            },
+            {
+                "sentence": "The title is a pun on the Danish words for either/or, enten (English: either) and eller (English: either).",
+                "label": 1
+            },
+            {
+                "sentence": "The book is divided into three parts:\nPart I: The Problem of the Subject\nPart II: The Problem of the Subject in Relation to the World\nPart III: The Problem of the Subject in Relation to the Self",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Either / Or. Either / Or ( Danish : Enten \u2013 Eller ) is the first published work of the Danish philosopher S\u00f8ren Kierkegaard ."
+    },
+    "135": {
+        "sentences": [
+            {
+                "sentence": "It is the fourth of the Eclogues, a series of poems written by Virgil in the late Roman Republic and early Roman Empire.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Christian interpretations of Virgil 's Eclogue 4. Eclogue 4 , also known as the Fourth Eclogue is the name of a Latin poem by the Roman poet Virgil ."
+    },
+    "134": {
+        "sentences": [
+            {
+                "sentence": "The Hogettes were a group of 12 male Washington Redskins fans who wore women's dresses, garden party hats, and pig snouts for two purposes : to cheer on their favorite NFL team and to raise money for charity.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hogettes. The Hogettes were a group of 12 male Washington Redskins fans who wore women 's dresses , garden party hats , and pig snouts for two purposes : to cheer on their favorite NFL team and to raise money for charity ."
+    },
+    "137": {
+        "sentences": [
+            {
+                "sentence": "The film was released in the United States on April 1, 2005.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was nominated for the Academy Award for Best Documentary Feature at the 86th Academy Awards.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Fuck ( film ). Fuck is a 2005 American documentary film by director Steve Anderson about the word \" fuck \" ."
+    },
+    "331": {
+        "sentences": [
+            {
+                "sentence": "The treaty was signed by the governments of the following countries: Australia, Brunei, Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand, and Vietnam.",
+                "label": 1
+            },
+            {
+                "sentence": "The treaty was signed by the governments of the following countries: Australia, Brunei, Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand, and Vietnam.",
+                "label": 1
+            },
+            {
+                "sentence": "The treaty was signed by the governments of the following countries: Australia, Brunei, Cambodia, Indonesia, Laos, Malaysia, the Philippines, Singapore, Thailand, and Vietnam.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Southeast Asia Treaty Organization. The Southeast Asia Treaty Organization ( SEATO ) was an international organization for collective defense in Southeast Asia created by the Southeast Asia Collective Defense Treaty , or Manila Pact , signed in September 1954 in Manila , Philippines ."
+    },
+    "335": {
+        "sentences": [
+            {
+                "sentence": "It was last seen in Liverpool, England, in 1884.",
+                "label": 1
+            },
+            {
+                "sentence": "It was a common pigeon in the United Kingdom, and was once common in Ireland.",
+                "label": 1
+            },
+            {
+                "sentence": "It was a common sight in Liverpool, England, and was known to be a pest to the city's residents.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Spotted green pigeon. The spotted green pigeon or Liverpool pigeon ( Caloenas maculata ) is a species of pigeon of unknown provenance which is most likely extinct ."
+    },
+    "333": {
+        "sentences": [
+            {
+                "sentence": "The vanilla plant is a member of the family Lauraceae, and is native to the tropical and subtropical regions of the Americas.",
+                "label": 1
+            },
+            {
+                "sentence": "The vanilla plant is a perennial herbaceous plant, growing to a height of 1.5 m (5 ft).",
+                "label": 1
+            },
+            {
+                "sentence": "The leaves are alternate, and are up to 10 cm (4 in) long and 2 cm (0.8 in) wide.",
+                "label": 0
+            },
+            {
+                "sentence": "The flowers are white, and are produced in clusters of up to 20.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Vanilla production in French Polynesia. Vanilla production contributes to the local economy of French Polynesia ."
+    },
+    "339": {
+        "sentences": [
+            {
+                "sentence": "Blackadder II is the second series of the BBC sitcom Blackadder, written by Richard Curtis and Ben Elton, which aired from 9 January 1986 to 20 February 1986.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Blackadder II. Blackadder II is the second series of the BBC sitcom Blackadder , written by Richard Curtis and Ben Elton , which aired from 9 January 1986 to 20 February 1986 ."
+    },
+    "334": {
+        "sentences": [
+            {
+                "sentence": "He was the first president of the People's Republic of Montenegro (1941\u20131944).",
+                "label": 0
+            },
+            {
+                "sentence": "He was a member of the League of Communists of Yugoslavia (1919\u20131941) and the Communist Party of Yugoslavia (1941\u20131945).",
+                "label": 1
+            },
+            {
+                "sentence": "Sekula Drljevi\u0107 was born in the village of Drljevi\u0107i near Podgorica, Montenegro.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Sekula Drljevi\u0107. Sekula Drljevi\u0107 ( 7 September 1884 \u2013 10 November 1945 ) was a Montenegrin politician and lawyer ."
+    },
+    "337": {
+        "sentences": [
+            {
+                "sentence": "She is best known for her work in the World Wrestling Entertainment (WWE) as a valet and manager.",
+                "label": 1
+            },
+            {
+                "sentence": "She is also known for her appearances in the World Wrestling All-Stars (WWAS) promotion.",
+                "label": 1
+            },
+            {
+                "sentence": "Moore was born in San Antonio, Texas, and is of Irish, German, and Native American descent.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Shannon Moore. Shannon Moore ( born July 27 , 1979 ) is an American professional wrestler ."
+    },
+    "332": {
+        "sentences": [
+            {
+                "sentence": "She was best known for her appearances in World Championship Wrestling (WCW) and World Wrestling Entertainment (WWE).",
+                "label": 1
+            },
+            {
+                "sentence": "She was born in Toronto, Ontario, Canada.",
+                "label": 1
+            },
+            {
+                "sentence": "She was a member of the Canadian Wrestling Association (CWA) and the World Wrestling Federation (WWF).",
+                "label": 1
+            },
+            {
+                "sentence": "She was also a member of the World Wrestling Council (WWC) and the World Wrestling Federation (WWF).",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Rhonda Sing. Rhonda Ann Sing ( February 21 , 1961 \u2013 July 27 , 2001 ) was a Canadian professional wrestler ."
+    },
+    "340": {
+        "sentences": [
+            {
+                "sentence": "The album was produced by James and her longtime collaborator, the late Muscle Shoals musician and producer, Rick Hall.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was James' first studio album in five years, and her first album to be released on her own label, Private Music.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was released on June 26, 2001.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Blue Gardenia ( album ). Blue Gardenia is a 2001 album by Etta James , released through the record label Private Music ."
+    },
+    "336": {
+        "sentences": [
+            {
+                "sentence": "Howell was born in Melbourne, Victoria, the son of a police officer.",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at the University of Melbourne, where he was a member of the University of Melbourne Flying Club.",
+                "label": 1
+            },
+            {
+                "sentence": "He joined the Royal Flying Corps in 1915 and was posted to No.1 Squadron RFC in France in 1916.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Cedric Howell. Cedric Ernest \" Spike \" Howell DSO , MC , DFC ( 17 June 1896 \u2013 10 December 1919 ) was an Australian fighter pilot and flying ace of the First World War ."
+    },
+    "282": {
+        "sentences": [
+            {
+                "sentence": "It was released in 1975.",
+                "label": 0
+            },
+            {
+                "sentence": "The film is a documentary about the savanna, the last refuge of the last wild animals of Africa.",
+                "label": 1
+            },
+            {
+                "sentence": "It is a story of the last wild animals of Africa, the last of the savanna, the last of the wild animals of Africa.",
+                "label": 1
+            },
+            {
+                "sentence": "The film is a story of the last wild animals of Africa, the last of the savanna, the last of the wild animals of Africa.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Ultime grida dalla savana. Ultime grida dalla savana ( 1975 ) ( English : Final Cry of the Savanna ) , also known as La Grande caccia and by its English title Savage Man Savage Beast , is a Mondo documentary directed by Antonio Climati and Mario Morra ."
+    },
+    "283": {
+        "sentences": [
+            {
+                "sentence": "It is the oldest zoo in the United Kingdom and the second oldest in the world.",
+                "label": 1
+            },
+            {
+                "sentence": "The zoo is located in the grounds of the Edinburgh Zoo and Royal Botanic Garden Edinburgh.",
+                "label": 1
+            },
+            {
+                "sentence": "The zoo is home to over 1,000 animals, including over 200 species of mammals, birds, reptiles, amphibians, fish, and invertebrates.",
+                "label": 1
+            },
+            {
+                "sentence": "The zoo is also home to the world's largest collection of primates, including the orangutan, chimpanzee, and bonobo.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about History of Edinburgh Zoo. Edinburgh Zoo is a zoological park in Edinburgh , Scotland which opened on 22 July 1913 ."
+    },
+    "296": {
+        "sentences": [
+            {
+                "sentence": "The uprising was led by the Serbian Orthodox Church, which had been banned by the NDH.",
+                "label": 1
+            },
+            {
+                "sentence": "The uprising was also supported by the Serbian Orthodox Church of the Serbian Patriarchate of Pe\u0107, the Serbian Orthodox Church of the Serbian Patriarchate of Pe\u0107, and the Serbian Orthodox Church of the Serbian Patriarchate of Pe\u0107.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about June 1941 uprising in eastern Herzegovina. In June 1941 , Serbs in eastern Herzegovina rebelled against the authorities of the Independent State of Croatia ( Croatian : Nezavisna Dr\u017eava Hrvatska , NDH ) , an Axis puppet state established during World War II on the territory of the defeated Kingdom of Yugoslavia ."
+    },
+    "288": {
+        "sentences": [
+            {
+                "sentence": "It was published in 2005 by Del Rey.",
+                "label": 1
+            },
+            {
+                "sentence": "The book is set in the Halo universe, and follows the story of the Ghost team, a group of UNSC Marines who are sent to investigate the mysterious disappearance of a UNSC ship.",
+                "label": 0
+            },
+            {
+                "sentence": "The book is the first in a series of novels set in the Halo universe.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Halo : Ghosts of Onyx. Halo : Ghosts of Onyx is a military science fiction novel by Eric Nylund , based on the Halo series of video games ."
+    },
+    "293": {
+        "sentences": [
+            {
+                "sentence": "She was the first ship to be named after the town of Sydney.",
+                "label": 1
+            },
+            {
+                "sentence": "HMCS Integrity was a cutter built by the Colonial Government of New South Wales in 1804.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about HMCS Integrity ( 1804 ). HMCS Integrity was a cutter built by the Colonial Government of New South Wales in 1804 ."
+    },
+    "280": {
+        "sentences": [
+            {
+                "sentence": "The raid was carried out on the night of 31 October 1944.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Operation Tungsten. Operation Tungsten was a Second World War Royal Navy air raid that targeted the German battleship Tirpitz ."
+    },
+    "265": {
+        "sentences": [
+            {
+                "sentence": "He was born in Antigua and Barbuda.",
+                "label": 0
+            },
+            {
+                "sentence": "He is the son of the late Sir Molwyn Joseph, who was the Prime Minister of Antigua and Barbuda from 1967 to 1978.",
+                "label": 1
+            },
+            {
+                "sentence": "He is married to the former Lady Patricia Joseph.",
+                "label": 1
+            },
+            {
+                "sentence": "Molwyn Joseph was born in Antigua and Barbuda on September 26, 1949.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Molwyn Joseph. Molwyn Joseph is an Antiguan politician and Chairman of the Antigua Labour Party ( ALP ) ."
+    },
+    "267": {
+        "sentences": [
+            {
+                "sentence": "The Braves finished the season with a record of 31 wins and 57 losses, the worst record in the league.",
+                "label": 1
+            },
+            {
+                "sentence": "The Braves were led by head coach Bill Fitch, who was in his second season with the team.",
+                "label": 1
+            },
+            {
+                "sentence": "Lanier was named to the All-NBA Second Team.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 1974 \u2013 75 Buffalo Braves season. The 1974 \u2013 75 Buffalo Braves season was the fifth season for the expansion Buffalo Braves franchise in the National Basketball Association and its Atlantic Division ."
+    },
+    "292": {
+        "sentences": [
+            {
+                "sentence": "He was the first African American to graduate from the University of Michigan School of Architecture.",
+                "label": 1
+            },
+            {
+                "sentence": "He was also the first African American to graduate from the University of Michigan Law School.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the first African American to be admitted to the Michigan Bar Association.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the first African American to be admitted to the American Institute of Architects.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Irving Kane Pond. Irving Kane Pond ( May 1 , 1857 \u2013 September 29 , 1939 ) was an American architect , college athlete , and author ."
+    },
+    "277": {
+        "sentences": [
+            {
+                "sentence": "The Glorious Revolution was a series of events that led to the overthrow of the Stuart monarchy in England and Scotland and the establishment of the Hanoverian dynasty.",
+                "label": 1
+            },
+            {
+                "sentence": "The Glorious Revolution was a series of events that led to the overthrow of the Stuart monarchy in England and Scotland and the establishment of the Hanoverian dynasty.",
+                "label": 1
+            },
+            {
+                "sentence": "The Glorious Revolution was a series of events that led to the overthrow of the Stuart monarchy in England and Scotland and the establishment of the Hanoverian dynasty.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Glorious Revolution in Scotland. The Glorious Revolution in Scotland was part of a wider change of regime , known as the Glorious Revolution or Revolution of 1688 , in the British kingdoms of the Stuart monarchy in 1688 \u2013 89 ."
+    },
+    "273": {
+        "sentences": [
+            {
+                "sentence": "It was the first hurricane to make landfall in the United States since Hurricane Hugo in 1989.",
+                "label": 1
+            },
+            {
+                "sentence": "On August\u00a023, 1989, a tropical wave moved off the coast of Africa.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hurricane Dean ( 1989 ). Hurricane Dean was the fourth named storm and second hurricane of the 1989 Atlantic hurricane season ."
+    },
+    "266": {
+        "sentences": [
+            {
+                "sentence": "He was the first person to successfully transplant a human heart.",
+                "label": 1
+            },
+            {
+                "sentence": "Cade was born in New York City, the son of a physician.",
+                "label": 1
+            },
+            {
+                "sentence": "He attended the University of Pennsylvania, where he received his bachelor's degree in 1949 and his medical degree in 1952.",
+                "label": 1
+            },
+            {
+                "sentence": "He completed his residency in internal medicine at the University of Pennsylvania Hospital in 1955.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Robert Cade. James Robert Cade ( September 26 , 1927 \u2013 November 27 , 2007 ) was an American physician , university professor , research scientist and inventor ."
+    },
+    "300": {
+        "sentences": [
+            {
+                "sentence": "(born November 7, 1954) is an American politician who served as the 39th Governor of Indiana from 2011 to 2017.",
+                "label": 1
+            },
+            {
+                "sentence": "Daniels is a member of the Republican Party.",
+                "label": 0
+            },
+            {
+                "sentence": "He previously served as the President of Purdue University from 2000 to 2011.",
+                "label": 1
+            },
+            {
+                "sentence": "Daniels was born in Indianapolis, Indiana, and graduated from the University of Notre Dame in 1976.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Mitch Daniels. Mitchell Elias \" Mitch \" Daniels , Jr ."
+    },
+    "275": {
+        "sentences": [
+            {
+                "sentence": "It was unveiled in 1876 by Queen Victoria.",
+                "label": 1
+            },
+            {
+                "sentence": "The statue was designed by the sculptor John Flaxman, and was cast in bronze by the Foundry of the Royal Mint in Birmingham.",
+                "label": 1
+            },
+            {
+                "sentence": "The statue was unveiled by Queen Victoria on 28 June 1876.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Statue of James II , Trafalgar Square. The statue of James II is an outdoor bronze sculpture located in the front garden of the National Gallery at Trafalgar Square in London , United Kingdom ."
+    },
+    "286": {
+        "sentences": [
+            {
+                "sentence": "Harvey was the first tropical cyclone to affect the United States since Hurricane Bob in August of that year.",
+                "label": 1
+            },
+            {
+                "sentence": "Harvey was the first tropical cyclone to affect the United States since Hurricane Bob in August of that year.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Tropical Storm Harvey ( 1999 ). Tropical Storm Harvey was a moderately strong tropical storm that caused flooding across south Florida during the 1999 Atlantic hurricane season ."
+    },
+    "298": {
+        "sentences": [
+            {
+                "sentence": "This is a Wikipedia passage about Louise Glover.",
+                "label": 0
+            },
+            {
+                "sentence": "Louise Helena Glover ( born 8 February 1983 ) is an English model.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Louise Glover. Louise Helena Glover ( born 8 February 1983 ) is an English model ."
+    },
+    "299": {
+        "sentences": [
+            {
+                "sentence": "It was released on September 14, 2004 through Roadrunner Records.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was recorded at Sound City Studios in Van Nuys, California.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was released in the United States on September 14, 2004, and in the United Kingdom on September 21, 2004.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Alive or Just Breathing. Alive or Just Breathing is the second studio album by American metalcore band Killswitch Engage ."
+    },
+    "272": {
+        "sentences": [
+            {
+                "sentence": "It was first broadcast on BBC One on 6 November 2005.",
+                "label": 1
+            },
+            {
+                "sentence": "The Doctor (Matt Smith) and Amy (Karen Gillan) are trapped in a cave on the planet Skaro, where they are pursued by the Cybermen.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Beast Below. \" The Beast Below \" is the second episode of the fifth series of the British science fiction television series Doctor Who ."
+    },
+    "287": {
+        "sentences": [
+            {
+                "sentence": "He was born in 1768 in Paris, France.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the son of Jean-Baptiste Baston de Lariboisi\u00e8re and Marie-Anne-Marie de Lariboisi\u00e8re.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the House of Lariboisi\u00e8re.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a general of artillery of the First French Empire.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Jean Ambroise Baston de Lariboisi\u00e8re. Jean Ambroise Baston de Lariboisi\u00e8re , also Count de Lariboisi\u00e8re , was a general of artillery of the First French Empire ."
+    },
+    "279": {
+        "sentences": [
+            {
+                "sentence": "The team competes in the Big Ten Conference.",
+                "label": 0
+            },
+            {
+                "sentence": "The team's home court is Williams Arena.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Minnesota Golden Gophers men 's basketball. The Minnesota Golden Gophers men 's basketball team represents the University of Minnesota Twin Cities campus ."
+    },
+    "289": {
+        "sentences": [
+            {
+                "sentence": "Denmark Street is a street on the edge of London's West End running from Charing Cross Road to St Giles.",
+                "label": 0
+            },
+            {
+                "sentence": "Denmark Street is a street on the edge of London's West End running from Charing Cross Road to St Giles.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Denmark Street. Denmark Street is a street on the edge of London 's West End running from Charing Cross Road to St Giles ."
+    },
+    "271": {
+        "sentences": [
+            {
+                "sentence": "Joseph Maxwell was born in Melbourne, Australia, the son of Joseph Maxwell and his wife, Annie.",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at St.Patrick's College, Melbourne, and joined the Australian Imperial Force in 1915.",
+                "label": 1
+            },
+            {
+                "sentence": "He was commissioned as a second lieutenant in the Australian Imperial Force on 1 January 1916.",
+                "label": 1
+            },
+            {
+                "sentence": "He was promoted to lieutenant on 1 January 1917, and to captain on 1 January 1918.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Joseph Maxwell. Joseph \" Joe \" Maxwell , VC , MC & Bar , DCM ( 10 February 1896 \u2013 6 July 1967 ) was an Australian recipient of the Victoria Cross , the highest decoration for gallantry \" in the face of the enemy \" that can be awarded to members of British and Commonwealth armed forces ."
+    },
+    "304": {
+        "sentences": [
+            {
+                "sentence": "The canal is about 30 miles (48 km) long, and runs from the River Don at Stainforth to the River Trent at Keadby.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Stainforth and Keadby Canal. The Stainforth and Keadby Canal is a navigable canal in South Yorkshire and Lincolnshire , England ."
+    },
+    "285": {
+        "sentences": [
+            {
+                "sentence": "They are the largest lemurs in the world, with the largest species, the giant mouse lemur, reaching a length of up to 1.5 m (5 ft) and a weight of up to 2 kg (4.4 lb).",
+                "label": 1
+            },
+            {
+                "sentence": "The giant mouse lemur is the largest living lemur species.",
+                "label": 1
+            },
+            {
+                "sentence": "The giant mouse lemur is a nocturnal animal, and is found in the rainforests of Madagascar.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Giant mouse lemur. The giant mouse lemurs ( members of the genus Mirza ) are a genus of strepsirrhine primates ."
+    },
+    "268": {
+        "sentences": [
+            {
+                "sentence": "(born November 15, 1917) is a former American football coach and player.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the head coach of the Minnesota Vikings of the National Football League (NFL) from 1961 to 1975, compiling a record of 173\u2013101\u20137.",
+                "label": 1
+            },
+            {
+                "sentence": "He was inducted into the Pro Football Hall of Fame in 1977.",
+                "label": 1
+            },
+            {
+                "sentence": "Grant was born in Minneapolis, Minnesota, and attended the University of Minnesota, where he played football and basketball.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Bud Grant. Harry Peter \" Bud \" Grant , Jr ."
+    },
+    "274": {
+        "sentences": [
+            {
+                "sentence": "He previously played for the Atlanta Braves and the Boston Red Sox.",
+                "label": 1
+            },
+            {
+                "sentence": "Gattis is a switch hitter who bats and throws right-handed.",
+                "label": 1
+            },
+            {
+                "sentence": "He was drafted by the Braves in the first round of the 2006 Major League Baseball draft.",
+                "label": 1
+            },
+            {
+                "sentence": "Gattis was born in San Antonio, Texas, and attended San Antonio Christian School.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Evan Gattis. James Evan Gattis ( born August 18 , 1986 ) is an American professional baseball designated hitter and catcher for the Houston Astros of Major League Baseball ( MLB ) ."
+    },
+    "303": {
+        "sentences": [
+            {
+                "sentence": "It is a Grade I listed building and is the largest castle in Wales.",
+                "label": 0
+            },
+            {
+                "sentence": "Caerphilly Castle is a medieval fortification in Caerphilly in South Wales.",
+                "label": 0
+            },
+            {
+                "sentence": "It is a Grade I listed building and is the largest castle in Wales.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Caerphilly Castle. Caerphilly Castle ( Welsh : Castell Caerffili ) is a medieval fortification in Caerphilly in South Wales ."
+    },
+    "276": {
+        "sentences": [
+            {
+                "sentence": "It was released on November 18, 2009, by Sony Music Latin.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was produced by Alejandro Sanz and Alejandro Sanz.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was recorded in Los Angeles, California, and was mixed by Alejandro Sanz.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was released in the United States on November 18, 2009, and in Mexico on November 25, 2009.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about A + No Poder. A + No Poder ( English : \" To the Max \" ) is the fourteenth studio album by Mexican recording artist Alejandra Guzm\u00e1n ."
+    },
+    "297": {
+        "sentences": [
+            {
+                "sentence": "The attack was carried out on the orders of the Ulster Defence Association ( UDA ), a paramilitary group loyal to the Ulster Protestant Unionist Party (UPUP ).",
+                "label": 1
+            },
+            {
+                "sentence": "The attack was carried out on the orders of the Ulster Volunteer Force ( UVF ), a loyalist paramilitary group, on 31 July 1975.",
+                "label": 0
+            },
+            {
+                "sentence": "The attack was carried out on the orders of the Ulster Volunteer Force ( UVF ), a loyalist paramilitary group, on 31 July 1975.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Miami Showband killings. The Miami Showband killings ( also called the Miami Showband Massacre ) was an attack by the Ulster Volunteer Force ( UVF ) , a loyalist paramilitary group , on 31 July 1975 ."
+    },
+    "281": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on NBC in the United States on October 16, 2006.",
+                "label": 1
+            },
+            {
+                "sentence": "Jack and Karen are in the hospital, and Jack is in a coma.",
+                "label": 1
+            },
+            {
+                "sentence": "Karen tells Grace that she and Jack have been married for twenty years, and that they have a son, Will.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Buy , Buy Baby. \" Buy , Buy Baby \" is the eighteenth episode of the American television series Will & Grace 's eighth season ."
+    },
+    "291": {
+        "sentences": [
+            {
+                "sentence": "The operation was part of the Allied invasion of New Guinea.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Landing at Jacquinot Bay. The Landing at Jacquinot Bay was an Allied amphibious operation undertaken on 4 November 1944 during the New Britain Campaign of World War II ."
+    },
+    "295": {
+        "sentences": [
+            {
+                "sentence": "Parsons was convicted of the murder of Richard Lynn Ernest, a man who had been convicted of the rape and murder of a woman in the same neighborhood.",
+                "label": 1
+            },
+            {
+                "sentence": "Parsons was executed by lethal injection at the Texas State Penitentiary in Huntsville, Texas.",
+                "label": 1
+            },
+            {
+                "sentence": "Parsons was born in Houston, Texas, to a family of African-American descent.",
+                "label": 1
+            },
+            {
+                "sentence": "He was raised in the Fifth Ward, a predominantly African-American neighborhood in Houston.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Joseph Mitchell Parsons. Joseph Mitchell \" Yogi \" Parsons ( July 22 , 1964 \u2013 October 15 , 1999 ) was an American who was executed for the August 1987 murder of Richard Lynn Ernest ."
+    },
+    "290": {
+        "sentences": [
+            {
+                "sentence": "The 32nd Battalion was formed in 1915 as part of the Australian Imperial Force (AIF) and served in World War I.",
+                "label": 0
+            },
+            {
+                "sentence": "The battalion was disbanded in 1957.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 32nd Battalion ( Australia ). The 32nd Battalion was an infantry battalion of the Australian Army ."
+    },
+    "284": {
+        "sentences": [
+            {
+                "sentence": "It was released on October 31, 2012, by RCA Records.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Ferreira, and produced by Greg Kurstin.",
+                "label": 0
+            },
+            {
+                "sentence": "The song was released as the EP's lead single on September 18, 2012.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released as a digital download on October 31, 2012.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Red Lips. \" Red Lips \" is a song recorded by American recording artist Sky Ferreira for her second extended play ( EP ) Ghost ( 2012 ) ."
+    },
+    "270": {
+        "sentences": [
+            {
+                "sentence": "(born December 18, 1892, in New York City, New York, U.S.\u2014died March 12, 1973, in New York City, New York) was an American architect who designed the New York Public Library, the New York City Hall, and the New York City Hall Annex.",
+                "label": 1
+            },
+            {
+                "sentence": "The New York Public Library (NYPL) is a public library system in New York City, New York, United States.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Haywood S. Hansell. Haywood Shepherd Hansell Jr ."
+    },
+    "301": {
+        "sentences": [
+            {
+                "sentence": "The first written records of Singapore date back to the 13th century.",
+                "label": 1
+            },
+            {
+                "sentence": "The first written records of Singapore date back to the 13th century.",
+                "label": 1
+            },
+            {
+                "sentence": "The first written records of Singapore date back to the 13th century.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about History of Singapore. The written history of Singapore dates back to the third century ."
+    },
+    "404": {
+        "sentences": [
+            {
+                "sentence": "Operation Tonga was a British airborne operation during the Normandy landings.",
+                "label": 0
+            },
+            {
+                "sentence": "It was planned to be a diversionary operation to the main Allied landings at Normandy, but was cancelled after the failure of Operation Overlord.",
+                "label": 1
+            },
+            {
+                "sentence": "The operation was planned to be a diversionary operation to the main Allied landings at Normandy, but was cancelled after the failure of Operation Overlord.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Operation Tonga. This article summarises British airborne operations during the Normandy landings ."
+    },
+    "406": {
+        "sentences": [
+            {
+                "sentence": "He was the first to propose the use of the neutron as a weapon of mass destruction.",
+                "label": 1
+            },
+            {
+                "sentence": "He attended the City College of New York, where he earned a B.S. in physics in 1934.",
+                "label": 1
+            },
+            {
+                "sentence": "He then attended Columbia University, where he earned a Ph.D. in physics in 1938.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Edward Creutz. Edward Creutz ( January 23 , 1913 \u2013 June 27 , 2009 ) was an American physicist who worked on the Manhattan Project at the Metallurgical Laboratory and the Los Alamos Laboratory during World War II ."
+    },
+    "403": {
+        "sentences": [
+            {
+                "sentence": "The doctrine of fair use is a doctrine of copyright law that permits limited use of copyrighted material without the permission of the copyright owner.",
+                "label": 0
+            },
+            {
+                "sentence": "The doctrine of fair use is a doctrine of copyright law that permits limited use of copyrighted material without the permission of the copyright owner.",
+                "label": 0
+            },
+            {
+                "sentence": "The doctrine was first articulated in the United States in the case of United States v.O'Brien (1890), and was later extended to other countries.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Gyles v Wilcox. Gyles v Wilcox ( 1740 ) 26 ER 489 was a decision of the Court of Chancery of England that established the doctrine of fair abridgement , which would later evolve into the concept of fair use ."
+    },
+    "398": {
+        "sentences": [
+            {
+                "sentence": "The battle was a decisive victory for the rebels, who were led by the Earl of Norfolk.",
+                "label": 1
+            },
+            {
+                "sentence": "The battle was fought in the vicinity of the present-day town of North Walsham, Norfolk, England.",
+                "label": 0
+            },
+            {
+                "sentence": "The battle was fought between the forces of the Earl of Norfolk and the forces of the Bishop of Norwich.",
+                "label": 0
+            },
+            {
+                "sentence": "The battle was a decisive victory for the rebels, who were led by the Earl of Norfolk.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of North Walsham. The Battle of North Walsham was a mediaeval battle fought on 25 or 26 June 1381 , near the town of North Walsham in the English county of Norfolk , in which a large group of rebellious local peasants was confronted by the heavily armed forces of Henry le Despenser , Bishop of Norwich ."
+    },
+    "400": {
+        "sentences": [
+            {
+                "sentence": "Dudley was born in London, England, the son of Thomas Dudley, 1st Earl of Leicester, and his wife, Elizabeth, daughter of Sir William Herbert, 1st Baronet.",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at Eton College and Christ Church, Oxford.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the Inner Temple and was called to the bar in 1601.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Thomas Dudley. Thomas Dudley ( 12 October 1576 \u2013 31 July 1653 ) was a colonial magistrate who served several terms as governor of the Massachusetts Bay Colony ."
+    },
+    "402": {
+        "sentences": [
+            {
+                "sentence": "The novel is set in the early 1990s, and follows the life of Logan Mountstuart, a British writer who is a friend of the author.",
+                "label": 1
+            },
+            {
+                "sentence": "The novel is a fictionalised account of the author's life.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Any Human Heart. Any Human Heart : The Intimate Journals of Logan Mountstuart is a 2002 novel by William Boyd , a British writer ."
+    },
+    "401": {
+        "sentences": [
+            {
+                "sentence": "It is composed of a mixture of gases, mostly hydrogen and helium, with traces of ammonia, methane, and water vapor.",
+                "label": 0
+            },
+            {
+                "sentence": "The atmosphere is mostly composed of hydrogen and helium, with traces of ammonia, methane, and water vapor.",
+                "label": 0
+            },
+            {
+                "sentence": "The atmosphere is mostly composed of hydrogen and helium, with traces of ammonia, methane, and water vapor.",
+                "label": 0
+            },
+            {
+                "sentence": "The atmosphere of Jupiter is the largest planetary atmosphere in the Solar System.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Atmosphere of Jupiter. The atmosphere of Jupiter is the largest planetary atmosphere in the Solar System ."
+    },
+    "405": {
+        "sentences": [
+            {
+                "sentence": "It was released on their third studio album, Parachutes (2003), and was the first single from the album.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by the band's lead singer, Chris Martin, and was produced by Martin and Guy Berryman.",
+                "label": 0
+            },
+            {
+                "sentence": "The song was released on September 8, 2003, as the first single from Parachutes.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Clocks ( song ). \" Clocks \" is a song by British alternative rock band Coldplay ."
+    },
+    "399": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on NBC in the United States on October 4, 2009.",
+                "label": 1
+            },
+            {
+                "sentence": "The pageant is for the Miss Pawnee pageant, and Leslie is the reigning Miss Pawnee.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Beauty Pageant ( Parks and Recreation ). \" Beauty Pageant \" is the third episode of the second season of the American comedy television series Parks and Recreation , and the ninth overall episode of the series ."
+    },
+    "397": {
+        "sentences": [
+            {
+                "sentence": "He is the owner of the Krusty Krab restaurant and the main antagonist of the series.",
+                "label": 0
+            },
+            {
+                "sentence": "Patrick Star is a fictional character in the American animated television series SpongeBob SquarePants.",
+                "label": 0
+            },
+            {
+                "sentence": "He is the owner of the Krusty Krab restaurant and the main antagonist of the series.",
+                "label": 0
+            },
+            {
+                "sentence": "Patrick Star is a fictional character in the American animated television series SpongeBob SquarePants.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Patrick Star. Patrick Star is a fictional character in the American animated television series SpongeBob SquarePants ."
+    },
+    "344": {
+        "sentences": [
+            {
+                "sentence": "It was renamed Embankment on 1 January 1872.",
+                "label": 1
+            },
+            {
+                "sentence": "It was renamed Embankment on 1 January 1872.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Embankment tube station. Embankment is a London Underground station in the City of Westminster , known by various names during its history ."
+    },
+    "347": {
+        "sentences": [
+            {
+                "sentence": "It was released as the first single from their third studio album, The Green Album, on October 7, 2002.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Rivers Cuomo, Scott Shriner, and Brian Bell.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released as a single on October 7, 2002.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Back to the Shack. \" Back to the Shack \" is a song by the American rock band Weezer ."
+    },
+    "346": {
+        "sentences": [
+            {
+                "sentence": "The song was written by Madonna, Timberlake, and Timbaland, and produced by Timbaland.",
+                "label": 0
+            },
+            {
+                "sentence": "The song was released as the album's second single on September 23, 2008.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was also released as a promotional single in the United Kingdom on October 7, 2008.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 4 Minutes. \" 4 Minutes \" is a song by American singer and songwriter Madonna from her eleventh studio album Hard Candy ( 2008 ) , featuring vocals by American singers Justin Timberlake and Timbaland ."
+    },
+    "350": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on Comedy Central in the United States on October 3, 1997.",
+                "label": 1
+            },
+            {
+                "sentence": "The boys are playing a game of \"Wee Wee\" in the park, and they are all having a good time.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Ike 's Wee Wee. \" Ike 's Wee Wee \" is the third episode of the second season of the animated television series South Park , and the 17th episode of the series overall ."
+    },
+    "342": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on the Fox network in the United States on March 16, 2008.",
+                "label": 1
+            },
+            {
+                "sentence": "The episode begins with Homer and Marge watching a news report about a new religion, \"The Church of the She of Little Faith\".",
+                "label": 1
+            },
+            {
+                "sentence": "The church is led by a woman named \"The She of Little Faith\", who claims to be the reincarnation of the Virgin Mary.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about She of Little Faith. \" She of Little Faith \" is the sixth episode of The Simpsons thirteenth season ."
+    },
+    "349": {
+        "sentences": [
+            {
+                "sentence": "The storm caused widespread flooding and landslides, and killed at least 20 people.",
+                "label": 1
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Hurricane Otto ( 2010 ).",
+                "label": 0
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Hurricane Otto ( 2010 ).",
+                "label": 0
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Hurricane Otto ( 2010 ).",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hurricane Otto ( 2010 ). Hurricane Otto produced days of torrential rain over much of the northeastern Caribbean in October 2010 ."
+    },
+    "343": {
+        "sentences": [
+            {
+                "sentence": "The team was later adapted for television in the Smallville television series.",
+                "label": 0
+            },
+            {
+                "sentence": "The Justice League is a fictional team of superheroes appearing in American comic books published by DC Comics.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Justice League ( Smallville ). The Justice League is a fictional group of superheroes on the television series , Smallville , who were adapted for television by Alfred Gough and Miles Millar ."
+    },
+    "345": {
+        "sentences": [
+            {
+                "sentence": "It was the first hurricane to make landfall in the United States since Hurricane Bob in 1991.",
+                "label": 1
+            },
+            {
+                "sentence": "The storm was named after Roslyn, Washington, a small town in the state of Washington.",
+                "label": 1
+            },
+            {
+                "sentence": "The storm was first observed on August\u00a029, 1986, by the Joint Typhoon Warning Center (JTWC) in the western Pacific Ocean.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hurricane Roslyn ( 1986 ). Hurricane Roslyn was the strongest hurricane in the 1986 Pacific hurricane season ."
+    },
+    "341": {
+        "sentences": [
+            {
+                "sentence": "The ship was named after the British naval hero, Admiral Sir John Vincent, who was killed in action in 1797.",
+                "label": 1
+            },
+            {
+                "sentence": "The ship was laid down at the Harland and Wolff shipyard in Belfast on 15 July 1908 and launched on 20 April 1910.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about HMS St Vincent ( 1908 ). HMS St Vincent was the lead ship of her class of three dreadnought battleships built for the Royal Navy in the first decade of the 20th century ."
+    },
+    "99": {
+        "sentences": [
+            {
+                "sentence": "It is the first SpongeBob SquarePants film and the first SpongeBob SquarePants film to be released in 3D.",
+                "label": 1
+            },
+            {
+                "sentence": "The film was directed by Tim Hill and produced by Nickelodeon Animation Studios.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Sponge Who Could Fly. \" The Sponge Who Could Fly \" , also known as \" The Lost Episode \" , is the 19th episode of the third season and the 59th overall episode of the American animated television series SpongeBob SquarePants ."
+    },
+    "104": {
+        "sentences": [
+            {
+                "sentence": "It was released as the second single from their third studio album, V.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Adam Levine, Jesse Carmichael, and James Fauntleroy.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released on September 17, 2014 as the second single from the album.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released on September 17, 2014 as the second single from the album.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Harder to Breathe. \" Harder to Breathe \" is a song by American band Maroon 5 ."
+    },
+    "103": {
+        "sentences": [
+            {
+                "sentence": "The album was released in 1970.",
+                "label": 0
+            },
+            {
+                "sentence": "The album was released in 1970, and was a commercial failure.",
+                "label": 1
+            },
+            {
+                "sentence": "It was the first of two albums Nilsson recorded with Newman, the second being Nilsson Sings Newman (1971).",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Nilsson Sings Newman. Nilsson Sings Newman is an album of Randy Newman compositions sung by Harry Nilsson , with Newman on piano ."
+    },
+    "106": {
+        "sentences": [
+            {
+                "sentence": "It was designed by the architect Sir John Sulman and opened on Anzac Day, 25 April 1920.",
+                "label": 1
+            },
+            {
+                "sentence": "The plinth is surrounded by a granite wall, with a bronze plaque on the wall.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about National War Memorial ( South Australia ). The National War Memorial is a monument in the city centre of Adelaide , South Australia , commemorating those who served in the First World War ."
+    },
+    "98": {
+        "sentences": [
+            {
+                "sentence": "He was the first Australian to hold the post.",
+                "label": 1
+            },
+            {
+                "sentence": "Sturdee was born in Melbourne, the son of a barrister.",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at Melbourne Grammar School and the University of Melbourne, where he graduated with a Bachelor of Arts in 1911.",
+                "label": 1
+            },
+            {
+                "sentence": "He was commissioned as a second lieutenant in the Australian Imperial Force on 1 January 1912.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Vernon Sturdee. Lieutenant General Sir Vernon Ashton Hobart Sturdee , KBE , CB , DSO ( 16 April 1890 \u2013 25 May 1966 ) was an Australian Army commander who served two terms as Chief of the General Staff ."
+    },
+    "97": {
+        "sentences": [
+            {
+                "sentence": "The hurricane caused $1.5 billion in damage and killed at least 1,000 people.",
+                "label": 1
+            },
+            {
+                "sentence": "The hurricane caused $1.5 billion in damage and killed at least 1,000 people.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hurricane Bridget ( 1971 ). Hurricane Bridget of June 1971 was one of the worst hurricanes to strike the Mexican city of Acapulco ."
+    },
+    "100": {
+        "sentences": [
+            {
+                "sentence": "The bursa is a fluid-filled sac that cushions the knee joint.",
+                "label": 0
+            },
+            {
+                "sentence": "The bursa is located between the kneecap and the thighbone.",
+                "label": 1
+            },
+            {
+                "sentence": "The bursa is a fluid-filled sac that cushions the knee joint.",
+                "label": 0
+            },
+            {
+                "sentence": "The bursa is located between the kneecap and the thighbone.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Prepatellar bursitis. Prepatellar bursitis is an inflammation of the prepatellar bursa at the front of the knee ."
+    },
+    "105": {
+        "sentences": [
+            {
+                "sentence": "He was the first Australian to be awarded the Distinguished Service Order ( DSO ) and the first to be awarded the Air Force Cross ( AFC ).",
+                "label": 1
+            },
+            {
+                "sentence": "He was also the first Australian to be awarded the Distinguished Flying Cross ( DFC ).",
+                "label": 1
+            },
+            {
+                "sentence": "Bostock was born in Melbourne, Victoria, Australia, the son of William Bostock, a farmer, and his wife, Mary Ann (n\u00e9e Dowling).",
+                "label": 1
+            },
+            {
+                "sentence": "He was educated at Melbourne Grammar School and the University of Melbourne, where he graduated with a Bachelor of Arts in 1914.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about William Bostock. Air Vice Marshal William Dowling ( Bill ) Bostock , CB , DSO , OBE ( 5 February 1892 \u2013 28 April 1968 ) was a senior commander in the Royal Australian Air Force ( RAAF ) ."
+    },
+    "101": {
+        "sentences": [
+            {
+                "sentence": "The series is set in the fictional planet Earth, which is the home of the human race.",
+                "label": 0
+            },
+            {
+                "sentence": "The series follows the adventures of Arthur Dent, a hapless, dim-witted, and lazy man who is accidentally dropped off on the planet Earth by a Vogon space ship.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Hitchhiker 's Guide to the Galaxy ( radio series ). The Hitchhiker 's Guide to the Galaxy is a science fiction comedy radio series written by Douglas Adams ( with some material in the first series provided by John Lloyd ) ."
+    },
+    "102": {
+        "sentences": [
+            {
+                "sentence": "He was the first Republican to hold the office of lieutenant governor of Kentucky.",
+                "label": 1
+            },
+            {
+                "sentence": "Wetherby was born in Louisville, Kentucky, the son of William and Mary (n\u00e9e Winchester) Wetherby.",
+                "label": 1
+            },
+            {
+                "sentence": "He attended the University of Louisville and the University of Kentucky, where he received a bachelor's degree in 1931 and a law degree in 1933.",
+                "label": 1
+            },
+            {
+                "sentence": "He was admitted to the bar in 1933 and began practicing law in Louisville.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Lawrence Wetherby. Lawrence Winchester Wetherby ( January 2 , 1908 \u2013 March 27 , 1994 ) was an American politician who served as lieutenant governor and governor of Kentucky ."
+    },
+    "69": {
+        "sentences": [
+            {
+                "sentence": "The NRHP is administered by the National Park Service ( NPS ).",
+                "label": 0
+            },
+            {
+                "sentence": "The National Register of Historic Places is a federal program administered by the National Park Service (NPS) that recognizes historic places of national significance.",
+                "label": 0
+            },
+            {
+                "sentence": "The program is administered by the National Park Service (NPS).",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about National Register of Historic Places. The National Register of Historic Places ( NRHP ) is the United States federal government 's official list of districts , sites , buildings , structures , and objects deemed worthy of preservation ."
+    },
+    "74": {
+        "sentences": [
+            {
+                "sentence": "She is the first Asian-American woman to serve on the New York City Council.",
+                "label": 0
+            },
+            {
+                "sentence": "She was elected to the New York City Council in 2001.",
+                "label": 1
+            },
+            {
+                "sentence": "She is a member of the Democratic Party.",
+                "label": 0
+            },
+            {
+                "sentence": "Chin was born in New York City to Chinese immigrants.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Margaret Chin. Margaret Chin ( born May 26 , 1954 ) is the Council member for the 1st District of the New York City Council ."
+    },
+    "71": {
+        "sentences": [
+            {
+                "sentence": "The album was recorded in Los Angeles, California, and produced by the band's founder, Black Francis.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was the band's first to be released on 4AD, and was the first Pixies album to be released in the United States.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was reissued on CD in the United States in 1992, and on vinyl in the United States in 1994.",
+                "label": 1
+            },
+            {
+                "sentence": "The album was reissued on CD in the United States in 2001, and on vinyl in the United States in 2003.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Doolittle ( album ). Doolittle is the second studio album from the American alternative rock band Pixies , released in April 1989 on 4AD ."
+    },
+    "73": {
+        "sentences": [
+            {
+                "sentence": "The passage is from the article on East Anglia, and it is a good example of how Wikipedia can be used to create a good historical narrative.",
+                "label": 0
+            },
+            {
+                "sentence": "The passage begins with a brief summary of the history of the kingdom of East Anglia, and then it goes on to describe the life of Wehha, who is described as a pagan king who was a contemporary of the Anglo-Saxon king \u00c6thelred the Unready.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Wehha of East Anglia. Wehha was a pagan king of the East Angles who , if he actually existed , ruled the kingdom of East Anglia during the 6th century , at the time the kingdom was being established by migrants from what is now Frisia and the southern Jutland peninsula ."
+    },
+    "70": {
+        "sentences": [
+            {
+                "sentence": "He played in Major League Baseball as a catcher for the St.Louis Cardinals (1947\u20131949), Philadelphia Phillies (1950\u20131951), and New York Yankees (1952\u20131953).",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the Cardinals' 1946 World Series championship team.",
+                "label": 1
+            },
+            {
+                "sentence": "Seerey was born in St.Louis, Missouri, and attended St.Louis University High School.",
+                "label": 1
+            },
+            {
+                "sentence": "He was drafted by the Cardinals in the second round of the 1942 amateur draft.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Pat Seerey. James Patrick Seerey ( March 17 , 1923 \u2013 April 28 , 1986 ) was an American professional baseball player ."
+    },
+    "67": {
+        "sentences": [
+            {
+                "sentence": "The test was conducted at the Trinity Site in New Mexico.",
+                "label": 0
+            },
+            {
+                "sentence": "The test was the first of the Trinity series of nuclear tests, and was the first nuclear explosion to be detonated in the atmosphere.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Trinity ( nuclear test ). Trinity was the code name of the first detonation of a nuclear weapon , conducted by the United States Army on July 16 , 1945 , as part of the Manhattan Project ."
+    },
+    "76": {
+        "sentences": [
+            {
+                "sentence": "The settlement was known as Sheafham, and was the site of a Roman fort.",
+                "label": 0
+            },
+            {
+                "sentence": "The city was granted city status in 1097 by King William the Conqueror.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about History of Sheffield. The history of Sheffield , a city in South Yorkshire , England , can be traced back to the founding of a settlement in a clearing beside the River Sheaf in the second half of the 1st millennium AD ."
+    },
+    "72": {
+        "sentences": [
+            {
+                "sentence": "The term is also used to refer to the people of the United Kingdom and its overseas territories, and to the people of the United Kingdom and its overseas territories who are not British citizens.",
+                "label": 1
+            },
+            {
+                "sentence": "The term British is used in a variety of ways.",
+                "label": 0
+            },
+            {
+                "sentence": "It can refer to the people of the United Kingdom, the people of the United Kingdom and its overseas territories, or the people of the United Kingdom and its overseas territories who are not British citizens.",
+                "label": 1
+            },
+            {
+                "sentence": "The term British is also used to refer to the people of the United Kingdom and its overseas territories, and to the people of the United Kingdom and its overseas territories who are not British citizens.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about British people. British people , or Britons , are the citizens of the United Kingdom , British Overseas Territories , and Crown dependencies , and their descendants ."
+    },
+    "75": {
+        "sentences": [
+            {
+                "sentence": "He was a member of the Black Hawks' Stanley Cup-winning teams in 1961 and 1962.",
+                "label": 1
+            },
+            {
+                "sentence": "He was inducted into the Hockey Hall of Fame in 1983.",
+                "label": 1
+            },
+            {
+                "sentence": "Bill Mosienko was born in the village of Kremenchuk, Ukraine, in 1921.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the son of a Ukrainian peasant farmer.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Bill Mosienko. William Mosienko ( November 2 , 1921 \u2013 July 9 , 1994 ) was a Ukrainian Canadian professional ice hockey right winger who played 14 seasons in the National Hockey League ( NHL ) for the Chicago Black Hawks ."
+    },
+    "66": {
+        "sentences": [
+            {
+                "sentence": "It was released on June 16, 2009, by Young Money Entertainment and Cash Money Records.",
+                "label": 1
+            },
+            {
+                "sentence": "The album debuted at number one on the US Billboard 200, selling over 200,000 copies in its first week.",
+                "label": 1
+            },
+            {
+                "sentence": "It also debuted at number one on the US Top R&B/Hip-Hop Albums chart, selling over 100,000 copies in its first week.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Stay Trippy. Stay Trippy is the third solo studio album by American rapper Juicy J."
+    },
+    "68": {
+        "sentences": [
+            {
+                "sentence": "She is the sister of the giantess Surt, and the mother of the giantess Angrboda.",
+                "label": 1
+            },
+            {
+                "sentence": "Hel is the sister of the giantess Surt, and the mother of the giantess Angrboda.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Hel ( being ). In Norse mythology , Hel is a being who presides over a realm of the same name , where she receives a portion of the dead ."
+    },
+    "82": {
+        "sentences": [
+            {
+                "sentence": "The album was recorded in two sessions, the first in January 1969 and the second in February 1969.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Tommy ( album ). Tommy is the fourth studio album by the English rock band The Who , a double album first released in May 1969 ."
+    },
+    "81": {
+        "sentences": [
+            {
+                "sentence": "The neighborhood is named after Washington Park, which is located in the neighborhood.",
+                "label": 0
+            },
+            {
+                "sentence": "The Washington Park Court District is a neighborhood in the South Shore community area of Chicago, Illinois.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Washington Park Court District. The Washington Park Court District is a Grand Boulevard community area neighborhood on the South Side of Chicago , Illinois ."
+    },
+    "83": {
+        "sentences": [
+            {
+                "sentence": "The Banker horse is a feral horse that has been selectively bred to be docile and friendly.",
+                "label": 0
+            },
+            {
+                "sentence": "The Banker horse is a breed of feral horse ( Equus ferus caballus ) living on barrier islands in North Carolina's Outer Banks.",
+                "label": 0
+            },
+            {
+                "sentence": "The Banker horse is a feral horse that has been selectively bred to be docile and friendly.",
+                "label": 0
+            },
+            {
+                "sentence": "The Banker horse is a breed of feral horse ( Equus ferus caballus ) living on barrier islands in North Carolina's Outer Banks.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Banker horse. The Banker horse is a breed of feral horse ( Equus ferus caballus ) living on barrier islands in North Carolina 's Outer Banks ."
+    },
+    "85": {
+        "sentences": [
+            {
+                "sentence": "It is the only extant member of the genus Gymnogyps, which is a member of the family Accipitridae.",
+                "label": 1
+            },
+            {
+                "sentence": "The California condor is the largest extant member of the family Accipitridae, and the largest North American land bird.",
+                "label": 1
+            },
+            {
+                "sentence": "The California condor is the largest extant member of the family Accipitridae, and the largest North American land bird.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about California condor. The California condor ( Gymnogyps californianus ) is a New World vulture , the largest North American land bird ."
+    },
+    "80": {
+        "sentences": [
+            {
+                "sentence": "He played college football at the University of Oregon and was drafted by the New York Jets in the second round of the 2001 NFL Draft.",
+                "label": 1
+            },
+            {
+                "sentence": "He played for the Jets from 2001 to 2003.",
+                "label": 1
+            },
+            {
+                "sentence": "He played for the San Diego Chargers from 2004 to 2005.",
+                "label": 1
+            },
+            {
+                "sentence": "He played for the New Orleans Saints from 2006 to 2007.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Tai Streets. Tai Lamar Streets ( born April 20 , 1977 ) is a former professional American football wide receiver in the National Football League ( NFL ) ."
+    },
+    "86": {
+        "sentences": [
+            {
+                "sentence": "It is a major east\u2013west route in the southwestern United States, running from the Arizona\u2013New Mexico border to the Utah\u2013Colorado border.",
+                "label": 1
+            },
+            {
+                "sentence": "The highway is a major east\u2013west route in the southwestern United States, running from the Arizona\u2013New Mexico border to the Utah\u2013Colorado border.",
+                "label": 1
+            },
+            {
+                "sentence": "The highway is a major east\u2013west route in the southwestern United States, running from the Arizona\u2013New Mexico border to the Utah\u2013Colorado border.",
+                "label": 1
+            },
+            {
+                "sentence": "The highway is a major east\u2013west route in the southwestern United States, running from the Arizona\u2013New Mexico border to the Utah\u2013Colorado border.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about U.S. Route 491. U.S. Route 491 ( US 491 ) is a north \u2013 south U.S. Highway serving the Four Corners region of the United States ."
+    },
+    "79": {
+        "sentences": [
+            {
+                "sentence": "He played in Major League Baseball (MLB) for the Chicago White Sox (1903\u20131905), Boston Red Sox (1906\u20131908), and Cleveland Naps (1909\u20131911).",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the 1906 World Series champion Red Sox.",
+                "label": 0
+            },
+            {
+                "sentence": "Evers was the first player to hit a home run in each of his first three at-bats in a World Series game.",
+                "label": 1
+            },
+            {
+                "sentence": "He was also the first player to hit a home run in each of his first four at-bats in a World Series game.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Johnny Evers. John Joseph Evers ( July 21 , 1881 \u2013 March 28 , 1947 ) was an American professional baseball second baseman and manager ."
+    },
+    "78": {
+        "sentences": [
+            {
+                "sentence": "The conclave was held in the Sistine Chapel, and the new pope was elected on 19 May 1769.",
+                "label": 1
+            },
+            {
+                "sentence": "The conclave was the first to be held in the Sistine Chapel, and the first to be held in the modern era.",
+                "label": 1
+            },
+            {
+                "sentence": "The conclave was the first to be held in the Sistine Chapel, and the first to be held in the modern era.",
+                "label": 1
+            },
+            {
+                "sentence": "The conclave was the first to be held in the Sistine Chapel, and the first to be held in the modern era.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Papal conclave , 1769. A papal conclave which lasted from 15 February to 19 May 1769 was convoked after the death of Pope Clement XIII ."
+    },
+    "84": {
+        "sentences": [
+            {
+                "sentence": "The league is divided into two conferences, Eastern and Western, with the top six teams in each conference qualifying for the playoffs.",
+                "label": 1
+            },
+            {
+                "sentence": "The league's regular season runs from March to October, with the playoffs beginning in November and concluding in December.",
+                "label": 1
+            },
+            {
+                "sentence": "The MLS Cup is awarded to the winner of the MLS Cup Playoffs.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Major League Soccer. Major League Soccer ( MLS ) is a men 's professional soccer league , sanctioned by U.S. Soccer , that represents the sport 's highest level in both the United States and Canada ."
+    },
+    "77": {
+        "sentences": [
+            {
+                "sentence": "The school was founded in 1887 and is accredited by the American Bar Association.",
+                "label": 1
+            },
+            {
+                "sentence": "Willamette University College of Law is a private law school located in Salem, Oregon, United States.",
+                "label": 0
+            },
+            {
+                "sentence": "It is the only law school in Oregon.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Willamette University College of Law. Willamette University College of Law is a private law school located in Salem , Oregon , United States ."
+    },
+    "365": {
+        "sentences": [
+            {
+                "sentence": "The award was discontinued in 2011.",
+                "label": 0
+            },
+            {
+                "sentence": "The Grammy Award for Best Hawaiian Music Album was an honor presented to recording artists from 2005 to 2011 for quality Hawaiian music albums.",
+                "label": 0
+            },
+            {
+                "sentence": "The award was discontinued in 2011.",
+                "label": 0
+            },
+            {
+                "sentence": "This is a Wikipedia passage about Grammy Award for Best Hawaiian Music Album.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Grammy Award for Best Hawaiian Music Album. The Grammy Award for Best Hawaiian Music Album was an honor presented to recording artists from 2005 to 2011 for quality Hawaiian music albums ."
+    },
+    "362": {
+        "sentences": [
+            {
+                "sentence": "He is the main antagonist of the series, and the main antagonist of the first season.",
+                "label": 0
+            },
+            {
+                "sentence": "He is portrayed by Michael Rosenbaum.",
+                "label": 0
+            },
+            {
+                "sentence": "Lex Luthor is the main antagonist of the series, and the main antagonist of the first season.",
+                "label": 0
+            },
+            {
+                "sentence": "He is portrayed by Michael Rosenbaum.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Lex Luthor ( Smallville ). Lex Luthor is a fictional character from the television series Smallville ."
+    },
+    "361": {
+        "sentences": [
+            {
+                "sentence": "The series is based on the Nickelodeon animated series Avatar: The Last Airbender, which aired from 2005 to 2008.",
+                "label": 0
+            },
+            {
+                "sentence": "The series is set in the fictional world of Republic City, which is based on the real-world city of Taipei, Taiwan.",
+                "label": 1
+            },
+            {
+                "sentence": "The series follows the adventures of Korra, a young woman who is the Avatar, a person who can control all four elements of the world.",
+                "label": 0
+            },
+            {
+                "sentence": "The Legend of Korra is a sequel to Avatar: The Last Airbender, which was created by Michael Dante DiMartino and Bryan Konietzko.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Legend of Korra. The Legend of Korra is an American animated television series that aired on the Nickelodeon television network from 2012 to 2014 ."
+    },
+    "364": {
+        "sentences": [
+            {
+                "sentence": "The Grey Cup is awarded to the winner of the Grey Cup game, which is the championship game of the Canadian Football League ( CFL ).",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Grey Cup. The Grey Cup is the name of both the championship game of the Canadian Football League ( CFL ) and the trophy awarded to the victorious team playing Canadian football ."
+    },
+    "366": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on NBC in the United States on February 24, 2005.",
+                "label": 1
+            },
+            {
+                "sentence": "Michael Scott (Steve Carell) is given a performance review by his boss, Jim Halpert (John Krasinski).",
+                "label": 1
+            },
+            {
+                "sentence": "Jim is not happy with Michael's review, and he decides to give Michael a bad review.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Performance Review. \" Performance Review \" is the eighth episode of the second season of the American comedy television series The Office , and the show 's fourteenth episode overall ."
+    },
+    "363": {
+        "sentences": [
+            {
+                "sentence": "The match was played at Hampden Park in Glasgow on Saturday, May 26, 2012, and was contested by Celtic and Rangers.",
+                "label": 1
+            },
+            {
+                "sentence": "Celtic won the match 2\u20131, with goals from Kris Commons and Leigh Griffiths.",
+                "label": 1
+            },
+            {
+                "sentence": "The 2012 Scottish Cup Final was the first Scottish Cup Final to be played at Hampden Park since the stadium was rebuilt in the early 1990s.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 2012 Scottish Cup Final. The 2012 Scottish Cup Final was the 127th final of the Scottish Cup ."
+    },
+    "370": {
+        "sentences": [
+            {
+                "sentence": "The German warships were sunk by the French submarine L\u00e9gion d'honneur.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Bombardment of Papeete. The Bombardment of Papeete occurred in French Polynesia when German warships attacked on 22 September 1914 , during World War I."
+    },
+    "367": {
+        "sentences": [
+            {
+                "sentence": "He was a prominent American religious leader and author of the influential book The Principles of Psychology.",
+                "label": 1
+            },
+            {
+                "sentence": "Peale was a member of the American Philosophical Society and the American Academy of Arts and Sciences.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a founder of the American Society for the Prevention of Cruelty to Animals.",
+                "label": 1
+            },
+            {
+                "sentence": "Peale was a member of the Philadelphia Board of Education and the Pennsylvania State Board of Education.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Franklin Peale. Benjamin Franklin Peale ( born Aldrovand Peale ; October 15 , 1795 \u2013 May 5 , 1870 ) , usually Franklin Peale , was an employee and officer of the Philadelphia Mint from 1833 to 1854 ."
+    },
+    "369": {
+        "sentences": [
+            {
+                "sentence": "He was born in London, and is a right-handed batsman and right-arm medium-pace bowler.",
+                "label": 0
+            },
+            {
+                "sentence": "He played for Middlesex and Sussex.",
+                "label": 1
+            },
+            {
+                "sentence": "He is the son of former England cricketer Trevor Key.",
+                "label": 0
+            },
+            {
+                "sentence": "Key made his first-class debut for Middlesex against Leicestershire in the 1999 County Championship.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Robert Key ( cricketer ). Robert William Trevor Key ( born 12 May 1979 ) is an English former cricketer ."
+    },
+    "368": {
+        "sentences": [
+            {
+                "sentence": "He was the first person to fly a jet aircraft in combat, and the first to fly a jet aircraft in a combat mission.",
+                "label": 1
+            },
+            {
+                "sentence": "He was also the first person to fly a jet aircraft in a combat mission.",
+                "label": 1
+            },
+            {
+                "sentence": "Radford was born in New York City on 27 February 1896.",
+                "label": 1
+            },
+            {
+                "sentence": "He graduated from the United States Naval Academy in 1917, and was commissioned as an ensign in the United States Navy.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Arthur W. Radford. Arthur William Radford ( 27 February 1896 \u2013 17 August 1973 ) was a United States Navy admiral and naval aviator ."
+    },
+    "93": {
+        "sentences": [
+            {
+                "sentence": "The film stars Robert Downey Jr.as Tony Stark/Iron Man, Gwyneth Paltrow as Pepper Potts, Don Cheadle as James \"Rhodey\" Rhodes, Guy Pearce as Aldrich Killian, Rebecca Hall as Maya Hansen, and Mickey Rourke as Ivan Vanko.",
+                "label": 0
+            },
+            {
+                "sentence": "The film was directed by Jon Favreau and written by Drew Pearce and Shane Black.",
+                "label": 1
+            },
+            {
+                "sentence": "It was released on May 3, 2010, and grossed $585 million worldwide.",
+                "label": 1
+            },
+            {
+                "sentence": "The film is set in the year 2012, and follows Tony Stark as he struggles to balance his life as a billionaire playboy and a superhero.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Iron Man 2. Iron Man 2 is a 2010 American superhero film based on the Marvel Comics character Iron Man , produced by Marvel Studios and distributed by Paramount Pictures.1 It is the sequel to 2008 's Iron Man , and is the third film in the Marvel Cinematic Universe ."
+    },
+    "88": {
+        "sentences": [
+            {
+                "sentence": "The season officially began on June\u00a01, 1884, and lasted until November\u00a030, 1884.",
+                "label": 1
+            },
+            {
+                "sentence": "The depression dissipated on June\u00a04.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 1884 Atlantic hurricane season. The 1884 Atlantic hurricane season was one of only three Atlantic hurricane seasons , along with 1852 and 1858 , in which every known tropical cyclone attained hurricane status ."
+    },
+    "89": {
+        "sentences": [
+            {
+                "sentence": "He was the son of King \u00c6thelred the Unready and his wife \u00c6lfthryth.",
+                "label": 1
+            },
+            {
+                "sentence": "Anna was the first king of East Anglia to be crowned in the presence of the Archbishop of Canterbury.",
+                "label": 1
+            },
+            {
+                "sentence": "Anna was the first king of East Anglia to be crowned in the presence of the Archbishop of Canterbury.",
+                "label": 1
+            },
+            {
+                "sentence": "Anna was the first king of East Anglia to be crowned in the presence of the Archbishop of Canterbury.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Anna of East Anglia. Anna ( or Onna ; killed 653 or 654 ) was king of East Anglia from the early 640s until his death ."
+    },
+    "87": {
+        "sentences": [
+            {
+                "sentence": "She played for the Australian national team and the Seattle Storm of the Women's National Basketball Association (WNBA).",
+                "label": 0
+            },
+            {
+                "sentence": "She is the WNBA's all-time leading scorer and was the first player to score over 20,000 points in the WNBA.",
+                "label": 1
+            },
+            {
+                "sentence": "Jackson was also the first player to score over 20,000 points in the WNBA and the first player to score over 20,000 points in the WNBA and the Australian Women's National Basketball Team.",
+                "label": 1
+            },
+            {
+                "sentence": "She is the only player to have won the WNBA MVP award three times.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Lauren Jackson. Lauren Elizabeth Jackson AO ( born 11 May 1981 ) is an Australian former professional basketball player ."
+    },
+    "91": {
+        "sentences": [
+            {
+                "sentence": "It was published in the United Kingdom on 21 July 1998, and in the United States on 21 July 1999.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Harry Potter and the Prisoner of Azkaban. Harry Potter and the Prisoner of Azkaban is the third novel in the Harry Potter series , written by J. K. Rowling ."
+    },
+    "92": {
+        "sentences": [
+            {
+                "sentence": "It was first broadcast on Fox on September 21, 1999.",
+                "label": 1
+            },
+            {
+                "sentence": "Death Has a Shadow is the pilot episode of the animated series Family Guy.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Death Has a Shadow. \" Death Has a Shadow \" is the pilot episode of the animated series Family Guy ."
+    },
+    "96": {
+        "sentences": [
+            {
+                "sentence": "It is also the first roller coaster to have a vertical loop.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Nighthawk ( roller coaster ). Nighthawk is a steel flying roller coaster from Vekoma located at Carowinds amusement park ."
+    },
+    "95": {
+        "sentences": [
+            {
+                "sentence": "He was a professor at the University of Maryland, College Park, and a member of the American Institute of Architects.",
+                "label": 1
+            },
+            {
+                "sentence": "Koubek was born in Prague, Czechoslovakia, and emigrated to the United States in 1949.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a professor at the University of Maryland, College Park, from 1964 to 2003.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the American Institute of Architects.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Vlastimil Koubek. Vlastimil Koubek ( March 17 , 1927 \u2013 February 15 , 2003 ) was a Czech American architect who designed more than 100 buildings , most of them in the Washington , D.C. , metropolitan area ."
+    },
+    "90": {
+        "sentences": [
+            {
+                "sentence": "The battle took place on the island of Zadar, in the Adriatic Sea, on the night of June 6\u20137, 1991.",
+                "label": 1
+            },
+            {
+                "sentence": "The battle was the first major military engagement of the Croatian War of Independence.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of Zadar. The Battle of Zadar ( Croatian : Bitka za Zadar ) was a military engagement between the Yugoslav People 's Army ( Jugoslovenska Narodna Armija , or JNA ) , supported by the Croatian Serb Serbian Autonomous Oblast of Krajina ( SAO Krajina ) , and the Croatian National Guard ( Zbor Narodne Garde , or ZNG ) , supported by the Croatian Police ."
+    },
+    "94": {
+        "sentences": [
+            {
+                "sentence": "The series is set in the fictional country of Tintinland, and follows the adventures of the young reporter Tintin and his dog Snowy.",
+                "label": 0
+            },
+            {
+                "sentence": "The first volume was published in 1929, and the last in 1983.",
+                "label": 1
+            },
+            {
+                "sentence": "The series has been translated into more than 40 languages, and has been adapted into several films, television series, video games, and other media.",
+                "label": 1
+            },
+            {
+                "sentence": "The Adventures of Tintin is a series of 24 comic albums created by Belgian cartoonist Georges Remi, who wrote under the pen name Herg\u00e9.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Adventures of Tintin. The Adventures of Tintin ( French : Les Aventures de Tintin ) is a series of 24 comic albums created by Belgian cartoonist Georges Remi , who wrote under the pen name Herg\u00e9 ."
+    },
+    "15": {
+        "sentences": [
+            {
+                "sentence": "The match was played on 30 August 2001 at Wembley Stadium in London, England.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 2001 FA Charity Shield. The 2001 FA Charity Shield was the 79th FA Charity Shield , an annual football match played between the winners of the previous season 's Premier League and FA Cup ."
+    },
+    "17": {
+        "sentences": [
+            {
+                "sentence": "The book was published in 1998 by the Razzie Awards Foundation.",
+                "label": 1
+            },
+            {
+                "sentence": "The Official Razzie Movie Guide : Enjoying the Best of Hollywood's Worst is a book about the Golden Raspberry Awards ( Razzies ), written by John Wilson, founder of the awards ceremony.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Official Razzie Movie Guide. The Official Razzie Movie Guide : Enjoying the Best of Hollywood 's Worst is a book about the Golden Raspberry Awards ( Razzies ) , written by John Wilson , founder of the awards ceremony ."
+    },
+    "16": {
+        "sentences": [
+            {
+                "sentence": "It was a battle between the French and the Austrians in the War of the First Coalition.",
+                "label": 0
+            },
+            {
+                "sentence": "The battle was fought in the Austrian province of Styria, in the area of Ostrach, in the Austrian Empire.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of Ostrach. The Battle of Ostrach , also called the Battle by Ostrach , occurred on 20 \u2013 21 March 1799 ."
+    },
+    "20": {
+        "sentences": [
+            {
+                "sentence": "It is the first game in the Crash Bandicoot series to be released on a handheld console.",
+                "label": 0
+            },
+            {
+                "sentence": "The game was released in North America on October 21, 2003, and in Europe on October 22, 2003.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Crash Bandicoot : The Huge Adventure. Crash Bandicoot : The Huge Adventure , released in Europe as Crash Bandicoot XS and in Japan as Crash Bandicoot Advance , is a platform game published by Universal Interactive Studios ( along with Konami in the Japanese release ) and developed by Vicarious Visions for the Game Boy Advance ."
+    },
+    "11": {
+        "sentences": [
+            {
+                "sentence": "The facility is named after the late Gerald Ratner, a Chicago businessman and philanthropist.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Gerald Ratner Athletics Center. The Gerald Ratner Athletics Center is a $ 51 million athletics facility within the University of Chicago campus in the Hyde Park community area on the South Side of Chicago , Illinois in the United States ."
+    },
+    "147": {
+        "sentences": [
+            {
+                "sentence": "It was released as the second single from their second studio album Spice (1997).\nlabel\uff1a0\ntext: \"Spice\"\n\nThe song was written by the group's lead singer, Geri Halliwell, and produced by the group's manager, Simon Fuller.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was released on 7 November 1997 as the second single from the album Spice.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was a commercial success, reaching number one in the United Kingdom and Ireland, and number two in Australia.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Too Much ( Spice Girls song ). \" Too Much \" is a song by the British pop group Spice Girls ."
+    },
+    "150": {
+        "sentences": [
+            {
+                "sentence": "The match was the final of the 1981\u201382 European Cup, the second season of the European Cup.",
+                "label": 1
+            },
+            {
+                "sentence": "Liverpool won the match 3\u20131, with goals from John Barnes, Graeme Souness and Ian Rush.",
+                "label": 1
+            },
+            {
+                "sentence": "The match was the first European Cup final to be played at the Parc des Princes, and the first to be played outside of England.",
+                "label": 1
+            },
+            {
+                "sentence": "It was the first European Cup final to be played in France, and the first to be played in the country since the 1958 final between Real Madrid and Benfica.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 1981 European Cup Final. The 1981 European Cup Final was an association football match between Liverpool of England and Real Madrid of Spain on 27 May 1981 at the Parc des Princes , Paris , France ."
+    },
+    "144": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on the Fox network in the United States on September 26, 1989.",
+                "label": 1
+            },
+            {
+                "sentence": "It was written by David Silverman and directed by David Silverman.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Moaning Lisa. \" Moaning Lisa \" is the sixth episode of The Simpsons ' first season ."
+    },
+    "145": {
+        "sentences": [
+            {
+                "sentence": "It originally aired on Fox in the United States on February 19, 2008.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about The Man with Two Brians. \" The Man with Two Brians \" is the fifth episode of the seventh season of the animated series Family Guy ."
+    },
+    "146": {
+        "sentences": [
+            {
+                "sentence": "It was released as the album's second single in the United States on June 8, 1984.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was written by Madonna and her then-boyfriend, Sean Penn, and produced by Madonna and Penn.",
+                "label": 1
+            },
+            {
+                "sentence": "The song was a commercial success, peaking at number one on the Billboard Hot 100 and becoming Madonna's first number-one single in the United States.",
+                "label": 1
+            },
+            {
+                "sentence": "It also reached number one in Canada, the United Kingdom, and Australia.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Material Girl. \" Material Girl \" is a song by American singer Madonna from her second studio album Like a Virgin ( 1984 ) ."
+    },
+    "148": {
+        "sentences": [
+            {
+                "sentence": "He was a member of the United States House of Representatives from 1871 to 1873 and from 1877 to 1881.",
+                "label": 1
+            },
+            {
+                "sentence": "He was a member of the United States Senate from 1881 to 1883.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the father of the American baseball player, Buckner Buckner.",
+                "label": 1
+            },
+            {
+                "sentence": "Buckner Buckner was born in New York City, the son of a wealthy merchant.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Simon Bolivar Buckner. Simon Bolivar Buckner ( April 1 , 1823 \u2013 January 8 , 1914 ) was an American soldier and politician who fought in the United States Army in the Mexican \u2013 American War and in the Confederate States Army during the American Civil War ."
+    },
+    "143": {
+        "sentences": [
+            {
+                "sentence": "He was born in 1865 in the town of New Castle, Delaware.",
+                "label": 1
+            },
+            {
+                "sentence": "He was the son of William Sheppard and Mary Ann (n\u00e9e Brown) Sheppard.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about William Henry Sheppard. William Henry Sheppard ( 1865 \u2013 1927 ) was one of the earliest African Americans to become a missionary for the Presbyterian Church ."
+    },
+    "25": {
+        "sentences": [
+            {
+                "sentence": "The center is named after Joseph Scelsi, a Pittsfield native who was a railroad executive and a member of the Massachusetts House of Representatives.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Joseph Scelsi Intermodal Transportation Center. The Joseph Scelsi Intermodal Transportation Center ( also called the Scelsi ITC ) is a transit facility located in downtown Pittsfield , Massachusetts ."
+    },
+    "22": {
+        "sentences": [
+            {
+                "sentence": "It was released as the first single from the band's second album, The Queen Is Dead, in November 1982.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about This Charming Man. \" This Charming Man \" is a song by the English rock band the Smiths , written by guitarist Johnny Marr and singer / lyricist Morrissey ."
+    },
+    "21": {
+        "sentences": [
+            {
+                "sentence": "The Battle of Labuan was a naval engagement fought between Allied and Japanese forces on the island of Labuan off Borneo during June 1945.",
+                "label": 0
+            },
+            {
+                "sentence": "The battle was fought between the Allied forces of the United States Navy and the Imperial Japanese Navy.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Battle of Labuan. The Battle of Labuan was an engagement fought between Allied and Japanese forces on the island of Labuan off Borneo during June 1945 ."
+    },
+    "23": {
+        "sentences": [
+            {
+                "sentence": "It was written by series creator Matthew Weiner and directed by David Fincher.",
+                "label": 1
+            },
+            {
+                "sentence": "The episode originally aired on April 15, 2007, on AMC in the United States.",
+                "label": 1
+            },
+            {
+                "sentence": "The episode is set in the early 1960s, in New York City.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Smoke Gets in Your Eyes ( Mad Men ). \" Smoke Gets in Your Eyes \" is the first episode of the first season of the American period drama television series Mad Men ."
+    },
+    "27": {
+        "sentences": [
+            {
+                "sentence": "Bonfire was born in 1983 in the Netherlands.",
+                "label": 0
+            },
+            {
+                "sentence": "He was owned by the Dutch rider Anky van Grunsven and competed in dressage with her.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Bonfire ( horse ). Bonfire ( March 21 , 1983 \u2013 October 28 , 2013 ) , full name Gestion Bonfire , was an Oldenburg gelding that competed in dressage with Dutch rider Anky van Grunsven ."
+    },
+    "194": {
+        "sentences": [
+            {
+                "sentence": "He was assassinated in 1978.",
+                "label": 0
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Harvey Milk.",
+                "label": 0
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Harvey Milk.",
+                "label": 0
+            },
+            {
+                "sentence": "The passage is from the Wikipedia article on Harvey Milk.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Harvey Milk. Harvey Bernard Milk ( May 22 , 1930 \u2013 November 27 , 1978 ) was an American politician who became the first openly gay person to be elected to public office in California , when he won a seat on the San Francisco Board of Supervisors ."
+    },
+    "196": {
+        "sentences": [
+            {
+                "sentence": "It was written for the Christmas season of 1724.",
+                "label": 1
+            },
+            {
+                "sentence": "The cantata is scored for four vocal soloists, a four-part choir, and a four-part orchestra.",
+                "label": 1
+            },
+            {
+                "sentence": "The cantata is scored for four vocal soloists, a four-part choir, and a four-part orchestra.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about O heilges Geist- und Wasserbad , BWV 165. O heilges Geist- und Wasserbad ( O holy bath of Spirit and water ) , BWV 165 , is a church cantata by Johann Sebastian Bach ."
+    },
+    "193": {
+        "sentences": [
+            {
+                "sentence": "He made his MLB debut in 2014.",
+                "label": 0
+            },
+            {
+                "sentence": "Jacob deGrom was born in New York City, New York, to parents, Mike and Linda deGrom.",
+                "label": 1
+            },
+            {
+                "sentence": "He attended St.John's University, where he played college baseball for the St.John's Red Storm baseball team.",
+                "label": 1
+            },
+            {
+                "sentence": "He was drafted by the New York Mets in the first round of the 2009 Major League Baseball draft.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Jacob deGrom. Jacob Anthony deGrom ( born June 19 , 1988 ) , is an American professional baseball pitcher for the New York Mets of Major League Baseball ( MLB ) ."
+    },
+    "192": {
+        "sentences": [
+            {
+                "sentence": "The season officially began on May\u00a015, 1984, and ended on November\u00a030, 1984.",
+                "label": 1
+            },
+            {
+                "sentence": "The season produced a total of 18\u00a0tropical cyclones, of which 15\u00a0became tropical storms, and 7\u00a0became typhoons.",
+                "label": 1
+            },
+            {
+                "sentence": "The season was above average in terms of the number of tropical cyclones, but below average in terms of the intensity of the storms.",
+                "label": 1
+            },
+            {
+                "sentence": "The season's first tropical cyclone, a tropical depression, formed on May\u00a015, and moved westward.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 1984 Pacific typhoon season. The 1984 Pacific typhoon season has no official bounds , but most tropical cyclones tend to form in the northwestern Pacific Ocean between May and November ."
+    },
+    "157": {
+        "sentences": [
+            {
+                "sentence": "The earliest timekeeping devices were sundials, which were used to measure the time of day.",
+                "label": 0
+            },
+            {
+                "sentence": "The first clocks were mechanical devices that used gears and springs to keep time.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about History of timekeeping devices. For thousands of years , devices have been used to measure and keep track of time ."
+    },
+    "155": {
+        "sentences": [
+            {
+                "sentence": "Motte sued Faulkner for copyright infringement, and Faulkner sued Motte for libel.",
+                "label": 1
+            },
+            {
+                "sentence": "Motte won the case, and Faulkner was forced to pay Motte's legal fees.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Motte v Faulkner. Motte v Faulkner ( decided 28 November 1735 ) was a copyright lawsuit between Benjamin Motte and George Faulkner over who had the legal rights to publish the works of Jonathan Swift in London ."
+    },
+    "158": {
+        "sentences": [
+            {
+                "sentence": "The CRNC is headquartered in Washington, D.C.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about College Republicans. The College Republican National Committee ( CRNC ) is a national organization for college and university students who support the Republican Party of the United States ."
+    },
+    "154": {
+        "sentences": [
+            {
+                "sentence": "The cyclone killed more than 10,000 people and left more than 1.5 million homeless.",
+                "label": 1
+            },
+            {
+                "sentence": "The 2004 Myanmar cyclone was considered the worst to strike the country since 1968.",
+                "label": 0
+            },
+            {
+                "sentence": "The cyclone struck the country on May 26, 2004, and was the deadliest in the country since the 1968 cyclone.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about 2004 Myanmar cyclone. The 2004 Myanmar cyclone was considered the worst to strike the country since 1968 ."
+    },
+    "151": {
+        "sentences": [
+            {
+                "sentence": "It is a marketing strategy that seeks to promote products that are perceived to be environmentally friendly.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Green marketing. Green marketing is the marketing of products that are presumed to be environmentally preferable to others ."
+    },
+    "156": {
+        "sentences": [
+            {
+                "sentence": "Mileena is a female character in the Mortal Kombat series of fighting games.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Mileena. Mileena is a player and occasional boss character from the Mortal Kombat series of fighting games ."
+    },
+    "153": {
+        "sentences": [
+            {
+                "sentence": "She is also the only one of the seven to be a woman.",
+                "label": 1
+            },
+            {
+                "sentence": "The Evil Queen is a powerful sorceress who is the ruler of the dwarfs' kingdom of Thistletop.",
+                "label": 1
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Evil Queen ( Disney ). The Evil Queen , also known as the Wicked Queen or just the Queen , and sometimes instead identified by her given name as Queen Grimhilde , is the primary antagonist in Disney 's 1937 animated film Snow White and the Seven Dwarfs and a villain character in the extended Disney 's Snow white franchise ."
+    },
+    "160": {
+        "sentences": [
+            {
+                "sentence": "He is the main antagonist of the 2009 film Star Trek, and the main antagonist of the 2009 Star Trek film Star Trek.",
+                "label": 0
+            }
+        ],
+        "prompt": "This is a Wikipedia passage about Khan Noonien Singh. Khan Noonien Singh , commonly shortened to Khan , is a fictional villain in the Star Trek science fiction franchise ."
+    }
+}

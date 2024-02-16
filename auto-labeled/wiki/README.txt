@@ -1,0 +1,2 @@
+Dividing the wiki data into train, valid, and test sets is merely for the convenience of evaluating the performance of the classification task itself.
+In downstream tasks, we use the train+valid split as the training dataset and the test set as the validation set, taking the best checkpoint from the validation set for the evaluation of downstream tasks.
