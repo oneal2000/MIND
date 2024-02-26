@@ -8,7 +8,7 @@ Our research highlights the limitations of current post-processing methods used 
 
 **MIND** extracts pseudo-training data directly from Wikipedia, eliminating the need for manual annotation, and uses a simple multi-layer perceptron model to perform hallucination detection during the LLM's inference process.
 
-![](pics/framework.pdf)
+![](pics/framework.png)
 
 ## Benchmark: HELM
 
