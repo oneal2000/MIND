@@ -8,6 +8,8 @@ Our research highlights the limitations of current post-processing methods used 
 
 **MIND** extracts pseudo-training data directly from Wikipedia, eliminating the need for manual annotation, and uses a simple multi-layer perceptron model to perform hallucination detection during the LLM's inference process.
 
+![](https://github.com/oneal2000/MIND/blob/main/pics/framework.pdf)
+
 ## Benchmark: HELM
 
 To further contribute to the field, we introduce a new benchmark named **HELM (Hallucination Evaluation for multiple LLMs)**, aimed at improving the reproducibility of our findings and facilitating future research. Unlike previous benchmarks, HELM provides texts produced by six different LLMs along with human-annotated hallucination labels, contextualized embeddings, self-attentions, and hidden-layer activations. This comprehensive dataset offers invaluable insights into the internal states of LLMs during the inference process.
