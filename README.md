@@ -59,8 +59,21 @@ The format of internal states is as follows:
 
 ### Data Generation Process
 
-#### 
+#### Sentences
+We provide prompts to LLMs as shown in `prompt_mapping.txt`. The generation settings are as follows:
+```
+generation_config = dict(
+                        top_k=0,
+                        top_p=1.0,
+                        do_sample=False,
+                        num_beams=1,
+                        max_new_tokens=128,
+                        return_dict_in_generate=True,
+                    )
+```
 
+#### Internal states
+You can run `generate_hd_for_helm.py` and obtain the same data as `./helm/hd/{model_name}/hd.json`.
 
 
 ## Repository Content
