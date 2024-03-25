@@ -152,7 +152,7 @@ Each file contains a list, and the elements of the list are dictionaries as foll
 
 ### Step 3
 
-**Run `./train/train.py` to train the classifier.**
+**Run `./auto-labeled/train/train.py` to train the classifier.**
 
 For example, if you train a classifier using the default parameters for `llamabase7b`, you will get the following output (omitting the intermediate outputs):
 
