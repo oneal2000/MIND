@@ -2,6 +2,14 @@
 
 Welcome to the official GitHub repository for our latest research on hallucination detection in Large Language Models (LLMs), titled **"MIND: Unsupervised Modeling of Internal States for Hallucination Detection of Large Language Models"**. In this work, we introduce a novel, unsupervised framework designed to address the challenges of existing hallucination detection methods. 
 
+
+
+If you have any questions or need further clarification, please feel free to open an issue in this repository. We are happy to assist and will respond as quickly as possible.
+
+**If you find our project interesting or helpful, we would appreciate it if you could give us a star! Your support is a tremendous encouragement to us!**
+
+
+
 ## Overview
 
 Our research highlights the limitations of current post-processing methods used in hallucination detection, including their high computational costs, latency, and inability to understand how hallucinations are generated within LLMs. To overcome these challenges, we propose **MIND**, an unsupervised and real-time hallucination detection framework that significantly reduces computational overhead and detection latency, and is compatible with any Transformer-based LLM.
