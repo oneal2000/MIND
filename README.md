@@ -1,12 +1,20 @@
 # MIND: Unsupervised Hallucination Detection Framework for LLMs
 
+
+
+**📢 News: this work has been accepted at the Findings of ACL 2024!**
+
+**If you find our project interesting or helpful, we would appreciate it if you could give us a star! Your support is a tremendous encouragement to us!**
+
+
+
 Welcome to the official GitHub repository for our latest research on hallucination detection in Large Language Models (LLMs), titled **"MIND: Unsupervised Modeling of Internal States for Hallucination Detection of Large Language Models"**. In this work, we introduce a novel, unsupervised framework designed to address the challenges of existing hallucination detection methods. 
 
 
 
 If you have any questions or need further clarification, please feel free to open an issue in this repository. We are happy to assist and will respond as quickly as possible.
 
-**If you find our project interesting or helpful, we would appreciate it if you could give us a star! Your support is a tremendous encouragement to us!**
+
 
 
 
