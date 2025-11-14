@@ -1,6 +1,12 @@
 # MIND: Unsupervised Hallucination Detection Framework for LLMs
 
 
+**📢 News [Nov. 14, 2025 Updated] : Our new work on hallucination detection, _RACE_, has been selected for 🎗️an Oral presentation at AAAI 2026🎗️!** The work is **the first** to reveal that prior black-box hallucination detection methods are fundamentally flawed when applied to **Large Reasoning Models (LRMs)** like DeepSeek-R1. RACE pioneers the direction of black-box hallucination detection for LRMs by jointly evaluating both reasoning traces and final answers.
+
+- **Title:** _Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models_
+- **Arixv Link:** https://arxiv.org/abs/2506.04832
+- **Github:** [bebr2/RACE](https://github.com/bebr2/RACE/)
+- **Huggingface:** [bebr2/RACE-CoT-Extractor-Llama-8B](https://huggingface.co/bebr2/RACE-CoT-Extractor-Llama-8B)
 
 **📢 News: this work has been accepted at the Findings of ACL 2024!**
 
